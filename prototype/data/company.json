@@ -1,0 +1,120 @@
+{
+ "name": "Kaede Works (fictional)",
+ "decision": {
+  "id": "exchange-2027",
+  "title": "Two-year exchange to Northwind Labs (US partner), one slot, starts April 2027",
+  "purpose": "Choose one person for the exchange. This page exists for this decision only.",
+  "planner": {
+   "id": "aya",
+   "name": "Aya Nakamura",
+   "role": "HR planner, COE"
+  }
+ },
+ "candidates": [
+  {
+   "id": "rin",
+   "name": "Rin Mori",
+   "role": "Senior marketing analyst",
+   "team": "Growth",
+   "manager": "Hayashi",
+   "tenure_years": 6
+  },
+  {
+   "id": "yui",
+   "name": "Yui Sato",
+   "role": "Product operations",
+   "team": "Pricing",
+   "manager": "Okada",
+   "tenure_years": 3
+  },
+  {
+   "id": "kei",
+   "name": "Kei Tanaka",
+   "role": "Software engineer",
+   "team": "Platform",
+   "manager": "Fujii",
+   "tenure_years": 4
+  }
+ ],
+ "tags": [
+  "data analysis",
+  "experiment design",
+  "pricing",
+  "stakeholder management",
+  "written communication (EN)",
+  "spoken communication (EN)",
+  "cross-team coordination",
+  "mentoring",
+  "product thinking",
+  "system design",
+  "incident response",
+  "documentation",
+  "customer interviews",
+  "negotiation",
+  "org design",
+  "ambiguity tolerance",
+  "initiative",
+  "feedback culture",
+  "project management",
+  "SQL",
+  "python",
+  "marketing analytics",
+  "onboarding others",
+  "public speaking",
+  "learning agility"
+ ],
+ "tag_scores": {
+  "rin": {
+   "data analysis": 5,
+   "experiment design": 4,
+   "pricing": 4,
+   "stakeholder management": 5,
+   "written communication (EN)": 3,
+   "spoken communication (EN)": 3,
+   "cross-team coordination": 4,
+   "mentoring": 5,
+   "product thinking": 4,
+   "marketing analytics": 5,
+   "SQL": 5,
+   "public speaking": 4,
+   "initiative": 4,
+   "learning agility": 3,
+   "ambiguity tolerance": 3
+  },
+  "yui": {
+   "data analysis": 4,
+   "experiment design": 4,
+   "pricing": 5,
+   "stakeholder management": 3,
+   "written communication (EN)": 4,
+   "spoken communication (EN)": 2,
+   "cross-team coordination": 4,
+   "mentoring": 2,
+   "product thinking": 4,
+   "documentation": 5,
+   "python": 3,
+   "SQL": 4,
+   "initiative": 4,
+   "learning agility": 5,
+   "ambiguity tolerance": 4
+  },
+  "kei": {
+   "data analysis": 3,
+   "system design": 5,
+   "incident response": 5,
+   "written communication (EN)": 4,
+   "spoken communication (EN)": 3,
+   "cross-team coordination": 3,
+   "mentoring": 3,
+   "product thinking": 3,
+   "org design": 3,
+   "documentation": 4,
+   "python": 5,
+   "SQL": 3,
+   "initiative": 3,
+   "learning agility": 4,
+   "ambiguity tolerance": 4,
+   "feedback culture": 4
+  }
+ }
+}

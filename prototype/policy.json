@@ -1,0 +1,41 @@
+{
+ "purpose": "exchange-2027",
+ "allowed_sources": {
+  "slack": {
+   "file": "slack.json",
+   "note": "public channels only"
+  },
+  "docs": {
+   "file": "docs.json",
+   "note": "shared documents"
+  },
+  "wcm": {
+   "file": "wcm.json",
+   "note": "Will Can Must sheets, already shared with HR by the employee"
+  },
+  "manager_notes": {
+   "file": "manager_notes.json",
+   "note": "manager notes, shown beside the employee's own words, never instead of them"
+  },
+  "sessions": {
+   "file": "sessions.json",
+   "note": "AI assistant session summaries, only where opted_in is true"
+  }
+ },
+ "excluded_sources": {
+  "dm": {
+   "file": "dm.json",
+   "note": "private messages, never read"
+  },
+  "private_channels": {
+   "file": null,
+   "note": "never read"
+  }
+ },
+ "rules": [
+  "Every claim must cite at least one source id from an allowed source, or it is dropped.",
+  "The subject sees the same page as the evaluator.",
+  "No score is presented as a verdict; ranking is a re-ordering of evidence for a stated criterion.",
+  "The page exists for one named decision and is deleted when it is made."
+ ]
+}

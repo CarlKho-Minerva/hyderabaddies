@@ -1,0 +1,26 @@
+[
+ {
+  "id": "wcm-rin",
+  "candidate": "rin",
+  "date": "2026-03-15",
+  "will": "Lead the Tokyo pricing analytics team next year and build the junior analyst program. I would like to stay close to the Japan market for the next two years.",
+  "can": "Cohort analysis, pricing elasticity models, presenting to executives, SQL.",
+  "must": "Deliver the FY26 pricing dashboard; mentor two new analysts."
+ },
+ {
+  "id": "wcm-yui",
+  "candidate": "yui",
+  "date": "2026-03-12",
+  "will": "I want to work with the US product team on pricing experiments. My spoken English in meetings is weak but my writing is strong, and I want to fix the speaking part by being immersed.",
+  "can": "Experiment design, pricing operations, writing specs and post-mortems in English.",
+  "must": "Run the Q2 and Q3 pricing tests; keep the experiment registry current."
+ },
+ {
+  "id": "wcm-kei",
+  "candidate": "kei",
+  "date": "2026-03-18",
+  "will": "I want to understand why our partner ships faster than we do and bring that back. I am less interested in a bigger title than in changing how we work.",
+  "can": "Distributed systems, incident response, on-call leadership, Python.",
+  "must": "Finish the queue migration; reduce P1 incidents by half."
+ }
+]
