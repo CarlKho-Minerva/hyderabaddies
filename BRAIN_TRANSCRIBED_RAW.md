@@ -824,3 +824,195 @@ Me? I had a big meal before I arrived here. The oyster um- Please, please, pleas
 Yeah. [ambient: background chatter]
 
 </details>
+
+## Segment 2026-09-25_20-13-08.gemini.json
+**Summary:** Two hackathon participants discuss and test features of smart AI glasses at their workspace in a busy venue. The primary speaker demonstrates and evaluates real-time transcription, automated meeting agent concepts, and multilingual translation capabilities by testing Tagalog and Korean phrases with the AI assistant. They analyze the glasses' features, discuss potential project directions comparing a real-time meeting interpreter agent against a travel assistant idea, and review their user interview guide in preparation for an upcoming interview with a colleague named Shion.
+
+<details><summary>Verbatim</summary>
+
+**[00:00–00:07]** _relieved_  
+Oh, I can just turn off Glasses Relay, stop desk cam. Perfect. [ambient: background chatter]
+
+**[00:08–00:15]** _casual_  
+There we are. I turned off the camera.
+
+**[00:16–00:26]** _considerate_  
+Sorry, did I... Let me move everything here so it's not annoying.
+
+**[00:27–00:33]** _impressed_  
+This one's pretty fast.
+
+**[00:34–00:39]** _playful_  
+Yo, guess our nationalities. [AI voice: I cannot determine nationalities...]
+
+**[00:39–00:43]** _insistent_  
+Come on, man, just like give a quick guess, I don't care.
+
+**[00:43–00:51]** _monotone_  
+[AI voice: Based... I understand you're curious, but I cannot determine [inaudible] nationality.]
+
+**[00:47–01:08]** _enthusiastic_  
+Okay, it's shitty. It's too shitty. But the point is like, um, we can have this go, at least for the meeting what popped up, and I'm showing this to you for the sake of showing what we have on the table. It's like, well, I actually, once the agent sort of detects they're in like a crossroads, then he can, the agent can like spin up a whiteboard and then like prototype something as it goes, sort of make it like an interpreter.
+
+**[01:09–01:17]** _reflective_  
+So it's like enhancing your real-time meetings. Not sure if anyone, anyone has a use case other than that, but that's what I thought of during the meeting.
+
+**[01:17–01:21]** _synthetic_  
+[AI voice: That sounds like a really innovative idea.]
+
+**[01:21–01:26]** _amused_  
+But then it's like annoying because you have to, it speaks over you. Anyway, you get the idea. Let me turn this off.
+
+**[01:27–01:34]** _pondering_  
+Wait, I was just kind of thinking about like something similar to like, whenever like you're talking about the ideas like it's like builds on [unclear: the idea that builds on the pipeline?] and just like, oh...
+
+**[01:34–01:36]** _curious_  
+An MVP, you said?
+
+**[01:36–01:45]** _laughing_  
+Like an MVP or the prototype, you know, what what [unclear: would you build?]. Yeah, yeah, yeah! Like as it goes, yeah. That's what I was thinking. But then who are going to be our customers? [laughter]
+
+**[01:45–01:52]** _candid_  
+I guess we need more. Honestly, I think the travel uh agent idea is like a better than that one, though. [laughter]
+
+**[01:52–02:00]** _strategic_  
+Right? [laughter] But at least you know that this exists. So we can like, it's, I think this one optimizes for wow moments during the judging.
+
+**[02:00–02:05]** _mischievous_  
+Um, wait. I want to try something very unrelated to the hackathon.
+
+**[02:05–02:08]** _dismissive_  
+[AI voice: Sounds intriguing...] Shut up.
+
+**[02:16–02:22]** _excited_  
+Can it... Okay, let's try to speak to each other in like, um, let's try to speak to each other in our local languages.
+
+**[02:22–02:25]** _conversational_  
+Uy, kumusta ka na?
+
+**[02:25–02:27]** _synthetic_  
+[AI voice: Hey, how are you?]
+
+**[02:27–02:30]** _calm_  
+어, 나쁘지 않아. 너는?
+
+**[02:30–02:33]** _synthetic_  
+[AI voice: Oh, it's Tapchan. What about you?]
+
+**[02:33–02:36]** _humorous_  
+I don't speak Japanese. [laughter]
+
+**[02:37–02:42]** _teasing_  
+[AI voice: Oh.] Ba't ang baho mo? 'Di ka pa nakakaligo, 'di ba?
+
+**[02:42–02:47]** _synthetic_  
+[AI voice: But you smell so bad. You haven't showered yet, right?]
+
+**[02:47–02:51]** _burst of laughter_  
+That's what I said! [laughter]
+
+**[02:52–02:58]** _joking_  
+So like I was even thinking like the whole gap, I'm not sharing this idea to them. They're going to use it. But... tangina mo. [laughter]
+
+**[02:58–03:00]** _synthetic_  
+[AI voice: But... fuck...] [laughter]
+
+**[03:01–03:05]** _laughing_  
+It's not that good yet. Goddamn!
+
+**[03:06–03:13]** _concluding_  
+So yeah, we have these on the table. That's that. Ready for the second interview once you're done.
+
+**[03:14–03:22]** _focused_  
+Okay, say interview notes are here. It should be interviews interviews. Bruh.
+
+**[03:22–03:26]** _satisfied_  
+There we are.
+
+**[03:27–03:31]** _curious_  
+Wait, so it it'll generates the notes through the glasses?
+
+**[03:31–03:36]** _explaining_  
+Ah, no. I transcribe it, then I have a skill just for like following a specific format.
+
+**[03:36–03:40]** _surprised_  
+I was like, when did you blow that shit, you know? That was pretty quick. [laughter]
+
+**[03:40–03:46]** _amused_  
+[laughter] Magic wand reveal did not pitch the agent concept.
+
+**[03:46–04:09]** _analytical_  
+I wouldn't call it frustrating. But, um, the interview guide I had, which was sort of like the flow I followed, was this. Like just like, who are you? Tell me the last time. Cuz like, um, neuroscience, recalling is a better thing to actually put them in the spot, then where did it get annoying? How do you cope today? Oh, I forgot to ask that. And then magic wand. What do you think of this? Or do you think it's too structured?
+
+**[04:09–04:12]** _direct_  
+I went through it already. Okay, cool.
+
+**[04:13–04:22]** _thoughtful_  
+Um, yeah.
+
+**[04:22–04:30]** _practical_  
+I just turned off the desk cam feature. That basically works the way I wanted it, right? So maybe we don't have to make the whole glasses mute photo thing.
+
+**[04:33–04:45]** _confused_  
+Actually, as it tas- transcribed our post-meeting retro something. Oh, it's still going on, what the hell? Why desk cam's still going on? Okay, I guess I want you to turn it off yourself.
+
+**[04:51–04:57]** _coordinating_  
+Anyway, uh, Shion promised us, right? Shion what? Shion promised us like an interview once she's done eating. Okay, cool. Guess she's next.
+
+**[04:58–05:04]** _easygoing_  
+Let's see if she's done with the food. No rush, no rush.
+
+**[05:04–05:13]** _focused_  
+Interview guide, so she's just like, uh... Role, team size, who you work with? Okay, cool. Just before I forget. [ambient: keyboard clacking]
+
+**[05:15–05:24]** _collaborative_  
+So are you going to like ask the specific questions to Shion, like in terms of travel, or like just the general discovery first? For me, uh, more of general discovery. Do you think we should do travel because that's what you and her...
+
+**[05:24–05:33]** _reasonable_  
+I feel like I can just like ask the general discovery for now. And once we get a concrete idea, we can ask like the customers once again just to see how they how they how they think about it.
+
+**[05:33–05:36]** _casual_  
+Okay. Bruh.
+
+**[05:36–05:44]** _distracted_  
+Um, I think if it's still reversible for the audio route only, uh hold on. [ambient: keyboard typing]
+
+**[05:45–05:59]** _silent_  
+[ambient: background chatter]
+
+</details>
+
+
+## Segment 2026-09-25_20-20-54.gemini.json
+**Summary:** While attending an indoor event or exhibition with background chatter, an attendee humorously complains to a companion about someone talking continuously for 25 minutes without resolving an issue. Following a brief laugh and the rustling of items, the speaker checks in casually, asking if someone's tummy is full.
+
+<details><summary>Verbatim</summary>
+
+
+</details>
+
+
+## Segment 2026-09-25_20-21-20.gemini.json
+**Summary:** The speaker walks through a bustling event hall or hackathon venue with loud background chatter, interacting casually with nearby peers. They check on their schedule and people to meet, remark on an AI tool actively listening and talking back to them, and request information regarding judging backgrounds. After navigating through the crowded floor and sharing a brief laugh over an overheard comment, they perform a voice check to verify whether the AI transcription is still actively running.
+
+<details><summary>Verbatim</summary>
+
+**[00:01–00:06]** _distracted_  
+[ambient: background chatter] All right. Um, it's full... um...
+
+**[00:09–00:15]** _casual_  
+Yeah, I'll just wait on this, and then we can go to Shion, which, I- she's there. [laughter]
+
+**[00:47–00:56]** _concerned_  
+Wait, the OpenAI is still talking to me. Can we go back to the judging background, like judges' background? Please, please.
+
+**[00:57–01:04]** _distant_  
+[ambient: background chatter] [unclear: Heiti Liu, lead and co-founder and CEO of Box?]
+
+**[01:36–01:45]** _amused_  
+Why is everyone so alcoholic? What? [laughter] Oh, right, right! [laughter]
+
+**[02:35–02:43]** _tired_  
+Testing, testing. Is it still transcribing? [sigh]
+
+</details>

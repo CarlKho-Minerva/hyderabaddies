@@ -34,6 +34,15 @@ Ideas explicitly discussed on the floor tonight (verbatim from transcript, no fi
 
 ---
 
+
+## Retro after interview 1 (Koki), 8:13–8:24 PM
+
+- **Idea on the table:** a real-time meeting agent. When a meeting hits a crossroads, it spins up a whiteboard and prototypes as the conversation goes, like an interpreter. Carl demoed Gemini Live on the glasses, including live Tagalog/Korean translation.
+  - Problems seen live: it talks over you, and nobody has named a customer yet ("who are going to be our customers?").
+  - Steven: "I think the travel agent idea is like better than that one." Carl: this one "optimizes for wow moments during the judging."
+- **Interview 1 follow-up:** skipped "how do you cope today" and the magic wand. Ask both next time.
+- **Next:** interview Shion after she finishes eating. Agreed on general discovery first, not a travel pitch; take a concrete idea back to people later.
+
 ## On-Site Hackathon Ops & Setup
 - **Mentorship booking:** Booked Hyderabaddies slot for **1:30 PM – 2:00 PM** (mentorship window is 12:30–2:30 PM).
 - **Repo:** GitHub repo `tiger-baddies` created (Carl handle: `CARLKA-Minerva`).
