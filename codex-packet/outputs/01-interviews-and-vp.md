@@ -33,7 +33,7 @@ Do not frame five minutes after arrival as an entitlement or imply a reservation
 
 ## VP identity and useful context
 
-The person identified in the event materials is **Hidetoshi Ebina** (Day1 slide4). His public LinkedIn listing describes him as Vice President of Human Resources at Recruit Co., Ltd. [Public profile](https://jp.linkedin.com/in/hidetoshi-ebina-746376258). This supports an HR leadership conversation; it does not establish his exact budget authority or that he owns Shion’s systems. Ask about his remit rather than assuming it. Avoid conflating him with unrelated people named Ebina.
+The person identified in the event materials is **Hidetoshi Ebina** (Day1 slide4). His public LinkedIn listing describes him as Vice President of Human Resources at Recruit Co., Ltd. [Public profile](https://jp.linkedin.com/in/hidetoshi-ebina-746376258). This supports an HR leadership conversation; it does not establish his exact budget authority or that he owns Shion’s systems. Ask about his remit rather than assuming it. Avoid conflating him with unrelated people named Ebina. A second public directory listing (ZoomInfo, surfaced by a web search on Sep 26) gives the title as “Vice President, COE Human Resources” at Recruit, which matches Shion's own “VP of COE / HR” description in `interviews/INTERVIEW_NOTES.md`. LinkedIn blocks automated fetches (HTTP 999 on Sep 26), so no agent has read either listing directly; they agree with each other and with Shion.
 
 ## VP conversation: 10–15 minutes including interpretation
 

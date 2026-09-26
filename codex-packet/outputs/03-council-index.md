@@ -16,16 +16,16 @@ All three candidates remain in every comparison: A recipient-appropriate Handoff
 
 | Round | Stress test and lineage | Provisional direction | What changed / strongest objection |
 |---|---|---|---|
-| [01](/Users/carl/Documents/Codex/2026-09-25/read/outputs/council/round-01.md) | Baseline | C | One incident, real consequence, grounded explanation. A has stronger observed workflow evidence. |
-| [02](/Users/carl/Documents/Codex/2026-09-25/read/outputs/council/round-02.md) | Buyer skepticism | C for exploration; A for discovery | Narrow buyer to onboarding; count authoring and review. No budget or willingness to pay established. |
-| [03](/Users/carl/Documents/Codex/2026-09-25/read/outputs/council/round-03.md) | Incumbents | A for next investigation; no adoption winner | Existing tools remain default. C has a higher concept score but that does not make it the best next action. |
-| [04](/Users/carl/Documents/Codex/2026-09-25/read/outputs/council/round-04.md) | Worker downside, from01 | C conditional | Learner-owned practice; university/learning sponsor hypothesis. Removing assessment narrows monetization. |
-| [05](/Users/carl/Documents/Codex/2026-09-25/read/outputs/council/round-05.md) | No enterprise data or expert, from02 | C as fictional mechanism only | Remove expert-grounding claims. A fictional puzzle cannot prove professional knowledge transfer. |
-| [06](/Users/carl/Documents/Codex/2026-09-25/read/outputs/council/round-06.md) | Unseen live input, from03 | B | Judge authors new constraint; shared interpretation, real alternatives and independent reference check. Generic-agent substitute remains. |
-| [07](/Users/carl/Documents/Codex/2026-09-25/read/outputs/council/round-07.md) | Latency/outage, from04 | C conditional | Local rules/evidence remain usable; generated dialogue can fail visibly. This strengthens the simpler-branching-exercise objection. |
-| [08](/Users/carl/Documents/Codex/2026-09-25/read/outputs/council/round-08.md) | Two people, one day, from05 | C narrowly | One consequential desk scene; scenario authoring before art. No explorable world, voice clone or autonomous society. |
-| [09](/Users/carl/Documents/Codex/2026-09-25/read/outputs/council/round-09.md) | Social impact and other industries, from06; reused06 agent | C-onboarding narrowly; B if no approved case | Separate onboarding from career previews. Japanese evidence establishes context, not demand. B's stronger technical case survives. |
-| [10](/Users/carl/Documents/Codex/2026-09-25/read/outputs/council/round-10.md) | Final synthesis of01–09; reused07 agent | C-career exploration for an exploratory artifact | Explicitly chooses a careers-program buyer instead of09’s onboarding. B retains technical lead; A retains discovery lead. No validated business. |
+| [01](council/round-01.md) | Baseline | C | One incident, real consequence, grounded explanation. A has stronger observed workflow evidence. |
+| [02](council/round-02.md) | Buyer skepticism | C for exploration; A for discovery | Narrow buyer to onboarding; count authoring and review. No budget or willingness to pay established. |
+| [03](council/round-03.md) | Incumbents | A for next investigation; no adoption winner | Existing tools remain default. C has a higher concept score but that does not make it the best next action. |
+| [04](council/round-04.md) | Worker downside, from01 | C conditional | Learner-owned practice; university/learning sponsor hypothesis. Removing assessment narrows monetization. |
+| [05](council/round-05.md) | No enterprise data or expert, from02 | C as fictional mechanism only | Remove expert-grounding claims. A fictional puzzle cannot prove professional knowledge transfer. |
+| [06](council/round-06.md) | Unseen live input, from03 | B | Judge authors new constraint; shared interpretation, real alternatives and independent reference check. Generic-agent substitute remains. |
+| [07](council/round-07.md) | Latency/outage, from04 | C conditional | Local rules/evidence remain usable; generated dialogue can fail visibly. This strengthens the simpler-branching-exercise objection. |
+| [08](council/round-08.md) | Two people, one day, from05 | C narrowly | One consequential desk scene; scenario authoring before art. No explorable world, voice clone or autonomous society. |
+| [09](council/round-09.md) | Social impact and other industries, from06; reused06 agent | C-onboarding narrowly; B if no approved case | Separate onboarding from career previews. Japanese evidence establishes context, not demand. B's stronger technical case survives. |
+| [10](council/round-10.md) | Final synthesis of01–09; reused07 agent | C-career exploration for an exploratory artifact | Explicitly chooses a careers-program buyer instead of09’s onboarding. B retains technical lead; A retains discovery lead. No validated business. |
 
 ## What the rehearsals actually resolved
 
@@ -41,6 +41,6 @@ The stopping rule is practical: get the one missing operator fact, inspect a run
 
 Start with round10 for the final synthesis, round06 for the strongest live-experiment challenger, and round03 for the incumbent argument. The remaining rounds preserve the full reasoning and revisions. Their scores use the same headline weights but shift concepts and assumptions; do not average them or treat a one-point gap as meaningful.
 
-[All ten full transcripts in one file](/Users/carl/Documents/Codex/2026-09-25/read/outputs/04-full-council-transcripts.md)
+[All ten full transcripts in one file](04-full-council-transcripts.md)
 
 Timing labels are rehearsal targets. Scripts were checked for plausible word counts, but no human timed presentation or product execution occurred. Before presenting, replace proposed behavior with verified present-tense claims only where the actual build supports them, and rehearse the real demo inside the allotted time.

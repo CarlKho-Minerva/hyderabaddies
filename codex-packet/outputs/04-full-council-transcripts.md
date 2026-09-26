@@ -2,7 +2,7 @@
 
 Fictional preparation, not actual judges’ statements or predicted results. Ten assignments across eight council agents; rounds09/10 reuse earlier agents because of a tool limit. Each agent authored all four critic voices in its round. All presenter lines are drafts for Carl/Steven. No prototype or customer outcome was produced by these rehearsals.
 
-[Read the council index first](/Users/carl/Documents/Codex/2026-09-25/read/outputs/03-council-index.md)
+[Read the council index first](03-council-index.md)
 
 Fictional critique generated for preparation. These are not statements by the actual judges, and scores do not predict judging.
 
