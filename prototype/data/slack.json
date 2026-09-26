@@ -1,0 +1,240 @@
+[
+ {
+  "id": "sl-001",
+  "channel": "#growth-analytics",
+  "author": "rin",
+  "date": "2026-04-02",
+  "text": "Posted the cohort retention deck for the exec review. Happy to walk anyone through the elasticity section."
+ },
+ {
+  "id": "sl-002",
+  "channel": "#growth-analytics",
+  "author": "rin",
+  "date": "2026-04-18",
+  "text": "@juniors: office hours Thursday 4pm for SQL window functions, bring your queries."
+ },
+ {
+  "id": "sl-003",
+  "channel": "#northwind-sync",
+  "author": "okada",
+  "date": "2026-05-06",
+  "text": "Northwind wants a Japan-side owner for the shared pricing experiment notes. Anyone?"
+ },
+ {
+  "id": "sl-004",
+  "channel": "#northwind-sync",
+  "author": "yui",
+  "date": "2026-05-06",
+  "text": "I can take the notes. I'll write them in English and post the same day."
+ },
+ {
+  "id": "sl-005",
+  "channel": "#northwind-sync",
+  "author": "yui",
+  "date": "2026-05-13",
+  "text": "Notes from today's Northwind sync posted. Two open questions on their holdout design, I flagged them inline."
+ },
+ {
+  "id": "sl-006",
+  "channel": "#northwind-sync",
+  "author": "yui",
+  "date": "2026-05-27",
+  "text": "Notes posted. I also drafted a comparison of our experiment registry vs theirs, link in thread."
+ },
+ {
+  "id": "sl-007",
+  "channel": "#northwind-sync",
+  "author": "yui",
+  "date": "2026-06-10",
+  "text": "Notes posted. Their PM asked if someone from our side could pair on the Q3 test design. I said I'd like to, pending Okada-san."
+ },
+ {
+  "id": "sl-008",
+  "channel": "#northwind-sync",
+  "author": "rin",
+  "date": "2026-05-20",
+  "text": "Sorry, I'll skip the Northwind syncs this quarter, the FY26 dashboard is taking all my time. Yui has the notes covered."
+ },
+ {
+  "id": "sl-009",
+  "channel": "#learning",
+  "author": "yui",
+  "date": "2026-06-03",
+  "text": "Is anyone up for 20 minutes of English meeting practice twice a week? I write fine but freeze when speaking. Will bring coffee."
+ },
+ {
+  "id": "sl-010",
+  "channel": "#learning",
+  "author": "kei",
+  "date": "2026-06-03",
+  "text": "In. Tuesdays and Thursdays work."
+ },
+ {
+  "id": "sl-011",
+  "channel": "#learning",
+  "author": "yui",
+  "date": "2026-07-15",
+  "text": "Six weeks of practice done. Ran today's Northwind sync in English myself for the first time."
+ },
+ {
+  "id": "sl-012",
+  "channel": "#all-hands-questions",
+  "author": "fujii",
+  "date": "2026-06-24",
+  "text": "Proposal from the org design team: move Platform to a job-based structure with fixed role definitions, like our US partner. Thoughts before Friday?"
+ },
+ {
+  "id": "sl-013",
+  "channel": "#all-hands-questions",
+  "author": "kei",
+  "date": "2026-06-25",
+  "text": "I'd push back on copying the structure without the reason. Northwind ships faster because each service has one accountable owner, not because roles are fixed. If we import fixed roles without ownership we get the slowness plus the rigidity. Suggest we pilot 'one owner per service' for a quarter first and measure lead time."
+ },
+ {
+  "id": "sl-014",
+  "channel": "#all-hands-questions",
+  "author": "hayashi",
+  "date": "2026-06-25",
+  "text": "Agree with Kei that we should measure before we reorganize."
+ },
+ {
+  "id": "sl-015",
+  "channel": "#all-hands-questions",
+  "author": "kei",
+  "date": "2026-07-02",
+  "text": "Update: Platform is running the one-owner pilot on two services. I'll post lead time numbers monthly."
+ },
+ {
+  "id": "sl-016",
+  "channel": "#platform",
+  "author": "kei",
+  "date": "2026-08-05",
+  "text": "One-owner pilot, month 1: lead time from PR to prod down from 6.1 to 3.4 days on the two services. Details in the doc."
+ },
+ {
+  "id": "sl-017",
+  "channel": "#platform",
+  "author": "kei",
+  "date": "2026-03-11",
+  "text": "Post-mortem for Monday's P1 is up. Root cause was ours. I've listed three fixes and who owns each."
+ },
+ {
+  "id": "sl-018",
+  "channel": "#platform",
+  "author": "kei",
+  "date": "2026-04-22",
+  "text": "Reminder: I'm on call this weekend. Escalate anything customer-facing straight to me."
+ },
+ {
+  "id": "sl-019",
+  "channel": "#pricing",
+  "author": "yui",
+  "date": "2026-04-09",
+  "text": "Q2 test plan is in the registry. Sample sizes are tight, so I've added a sequential stopping rule."
+ },
+ {
+  "id": "sl-020",
+  "channel": "#pricing",
+  "author": "yui",
+  "date": "2026-07-30",
+  "text": "Q2 result: the 3% increase held retention flat in the SMB segment. Full write-up in the doc, including what I'd do differently."
+ },
+ {
+  "id": "sl-021",
+  "channel": "#pricing",
+  "author": "rin",
+  "date": "2026-07-31",
+  "text": "Nice write-up. The SMB segmentation matches what I see in the cohort data."
+ },
+ {
+  "id": "sl-022",
+  "channel": "#pricing",
+  "author": "okada",
+  "date": "2026-08-12",
+  "text": "Who can cover the partner pricing review on Aug 20? Yui is out."
+ },
+ {
+  "id": "sl-023",
+  "channel": "#pricing",
+  "author": "yui",
+  "date": "2026-08-12",
+  "text": "Actually I'm back on the 19th, I'll take it so nobody has to reshuffle."
+ },
+ {
+  "id": "sl-024",
+  "channel": "#growth-analytics",
+  "author": "rin",
+  "date": "2026-06-11",
+  "text": "FY26 dashboard v1 is live. Thanks to the two juniors who built half of it."
+ },
+ {
+  "id": "sl-025",
+  "channel": "#growth-analytics",
+  "author": "rin",
+  "date": "2026-08-28",
+  "text": "I'll present the pricing analytics roadmap to the exec team on the 9th. Draft in the doc, comments welcome."
+ },
+ {
+  "id": "sl-026",
+  "channel": "#random",
+  "author": "rin",
+  "date": "2026-05-30",
+  "text": "Kyoto this weekend, anyone have a ramen rec?"
+ },
+ {
+  "id": "sl-027",
+  "channel": "#random",
+  "author": "yui",
+  "date": "2026-06-20",
+  "text": "Finally finished the Northwind onboarding videos. Their pricing team structure is really different from ours."
+ },
+ {
+  "id": "sl-028",
+  "channel": "#random",
+  "author": "kei",
+  "date": "2026-07-19",
+  "text": "Reading 'Accelerate' again. The lead time chapter is basically our pilot."
+ },
+ {
+  "id": "sl-029",
+  "channel": "#northwind-sync",
+  "author": "northwind-pm",
+  "date": "2026-06-24",
+  "text": "Thanks Yui for the registry comparison, we've adopted two of your fields."
+ },
+ {
+  "id": "sl-030",
+  "channel": "#platform",
+  "author": "fujii",
+  "date": "2026-08-26",
+  "text": "Kei, we need you on the migration through March. Let's talk before you commit to anything else."
+ },
+ {
+  "id": "sl-031",
+  "channel": "#platform",
+  "author": "kei",
+  "date": "2026-08-26",
+  "text": "Understood. I'll make sure the migration has a second owner either way."
+ },
+ {
+  "id": "sl-032",
+  "channel": "#pricing",
+  "author": "yui",
+  "date": "2026-03-04",
+  "text": "New here on the pricing side. I've read the last four test write-ups; a few questions in thread."
+ },
+ {
+  "id": "sl-033",
+  "channel": "#growth-analytics",
+  "author": "hayashi",
+  "date": "2026-08-28",
+  "text": "Rin should be the one presenting overseas too, honestly."
+ },
+ {
+  "id": "sl-034",
+  "channel": "#growth-analytics",
+  "author": "rin",
+  "date": "2026-08-28",
+  "text": "Thanks, though I'd rather build the team here first."
+ }
+]
