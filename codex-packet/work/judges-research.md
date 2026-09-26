@@ -4,7 +4,7 @@ Research date: September 25, 2026. Read-only source review. This is preparation,
 
 ## Verified event requirements
 
-Source: `/private/tmp/hyderabaddies/attachments/InnovationCup2026_Day1_Slide.pdf`, pages 7–19, 21, 27. Extracted full text and visually inspected schedule, rubric, submission, preliminary and final slides. Also extracted all slides and speaker notes from `hackathon_template.pptx`.
+Source: [attachments/InnovationCup2026_Day1_Slide.pdf](../../attachments/InnovationCup2026_Day1_Slide.pdf), pages 7–19, 21, 27. Extracted full text and visually inspected schedule, rubric, submission, preliminary and final slides. Also extracted all slides and speaker notes from `hackathon_template.pptx`.
 
 - Theme (pp11–12): envision a product driving innovation in the future of work. Work includes individuals, teams, organizations, labor systems, society. No requirement to fit Recruit's businesses. AI optional. Clear problem, target user, approach matter more than stack.
 - Rubric (p14): Potential Impact 40% covers BOTH social impact (problem importance/scale, meaningful user/society benefit) and business potential (demand, market opportunity, sustainable growth). Creativity & Innovation 30%: original insight, novel approach/combination, clear differentiation. Technical Architecture 30%: appropriate technology, realistic design, PoC demonstrating the key idea, credible practical path. No official numerical split inside the 40% category.

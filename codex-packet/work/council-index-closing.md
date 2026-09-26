@@ -13,6 +13,6 @@ The stopping rule is practical: get the one missing operator fact, inspect a run
 
 Start with round10 for the final synthesis, round06 for the strongest live-experiment challenger, and round03 for the incumbent argument. The remaining rounds preserve the full reasoning and revisions. Their scores use the same headline weights but shift concepts and assumptions; do not average them or treat a one-point gap as meaningful.
 
-[All ten full transcripts in one file](/Users/carl/Documents/Codex/2026-09-25/read/outputs/04-full-council-transcripts.md)
+[All ten full transcripts in one file](../outputs/04-full-council-transcripts.md)
 
 Timing labels are rehearsal targets. Scripts were checked for plausible word counts, but no human timed presentation or product execution occurred. Before presenting, replace proposed behavior with verified present-tense claims only where the actual build supports them, and rehearse the real demo inside the allotted time.

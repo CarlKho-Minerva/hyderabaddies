@@ -1,6 +1,8 @@
 # When you wake up
 
-> **Overnight close-out (added ~23:45 PDT Sep 25 by a follow-on agent after the Codex thread hit its usage limit):** the packet was integrity- and fact-checked. Every logistics claim in §3 below traces to `work/event.txt` (the Day 1 deck). All links resolve. All ten council rounds are present and complete. Hour-by-hour Saturday plan: [05-saturday-runsheet.md](/Users/carl/Documents/Codex/2026-09-25/read/outputs/05-saturday-runsheet.md). What was checked, fixed, and what is still unverified: [PACKET-VERIFICATION.md](/Users/carl/Documents/Codex/2026-09-25/read/outputs/PACKET-VERIFICATION.md). Still on you: open the Shion DM and see whether she replied; nobody has read it since 22:49.
+> **Overnight close-out (added ~23:45 PDT Sep 25 by a follow-on agent after the Codex thread hit its usage limit):** the packet was integrity- and fact-checked. Every logistics claim in §3 below traces to `work/event.txt` (the Day 1 deck). All links resolve. All ten council rounds are present and complete. Hour-by-hour Saturday plan: [05-saturday-runsheet.md](05-saturday-runsheet.md). What was checked, fixed, and what is still unverified: [PACKET-VERIFICATION.md](PACKET-VERIFICATION.md). Still on you: open the Shion DM and see whether she replied; nobody has read it since 22:49.
+>
+> **Second pass (added ~00:10–01:00 PDT Sat Sep 26 by Claude on Steven's machine):** every link in this packet is now relative and resolves inside this repo. The template .pptx, all nine slide screenshots and 18 of the 20 external sources were re-checked; results and the two that stayed blocked are in [PACKET-VERIFICATION.md](PACKET-VERIFICATION.md). Two runsheet facts changed from local records: your Hiro mentoring slot is already booked for 1:30–2:00 PM, and a `tiger-baddies` repo was created Friday but is not visible publicly. Steven's overnight memo (STEVEN-RESEARCH.md, "Vouch") is mapped against this packet's paths and the interview audit in [06-vouch-vs-packet.md](06-vouch-vs-packet.md); read it before the 2:30 PM gate. The Shion DM is still unread by anyone.
 
 Prepared Friday September 25, 2026. Research and rehearsal drafts; no product has been built or customer benefit measured in this task.
 
@@ -12,7 +14,7 @@ I sent Shion an appointment request at 10:49 PM before you reviewed it. You corr
 
 Your first question: **“What recurring problem in the teams you oversee most recently needed your intervention?”** Ask for the last actual instance, what happened because of it, and what their current approach leaves unresolved. If he is tired, finish by asking who can show you an example tomorrow. Do not spend his five minutes defending one of our ideas.
 
-[Interview feedback, timed VP guide, Shion observation and quantification wording](/Users/carl/Documents/Codex/2026-09-25/read/outputs/01-interviews-and-vp.md)
+[Interview feedback, timed VP guide, Shion observation and quantification wording](01-interviews-and-vp.md)
 
 The one interviewing change to make: when someone describes a process, resist calling it frustrating or expensive for them. Ask what remains difficult **after their current workaround**. Your specific sequence questions were productive; the leading interpretations and hypothetical travel stories were weaker evidence.
 
@@ -30,7 +32,7 @@ A concrete Minerva example, entirely hypothetical: a student receives a fictiona
 
 For a business, pick **one** buyer hypothesis. Employer onboarding has a potential repeated training budget; career previews have employer recruiting or university careers buyers. They are different products with different success metrics. Do not pitch both as validated demand. The grand vision can be broad; tomorrow's proof should be one task, one user and one observable benefit.
 
-[Six concepts, competitors, Japanese evidence, Observable/Collective Intuition privacy findings, judges and exact event requirements](/Users/carl/Documents/Codex/2026-09-25/read/outputs/02-research-and-demo-options.md)
+[Six concepts, competitors, Japanese evidence, Observable/Collective Intuition privacy findings, judges and exact event requirements](02-research-and-demo-options.md)
 
 On employee cloning: public enterprise terms describe consent responsibilities, customer-specific data use and controls. They do not reveal how the particular financial company approved deployment. We cannot honestly fill that gap. Our tractable version is approved professional examples plus scope-aware practice, not secretly observing an employee or claiming to reproduce their mind.
 
@@ -46,7 +48,7 @@ A test worth running: compare the rehearsal against the same case in a document 
 
 The ten council rounds are stress tests of our reasoning. They are separate agent runs using shared evidence and related prompts, not independent real judges or market validation. Read their disagreements and reversal conditions rather than count votes. Full transcripts include drafted prelim/final pitches, Q&A, demo scenes, deliberation and what is still only proposed.
 
-[Council index and full transcripts](/Users/carl/Documents/Codex/2026-09-25/read/outputs/03-council-index.md)
+[Council index and full transcripts](03-council-index.md)
 
 ## What I reviewed and changed
 
