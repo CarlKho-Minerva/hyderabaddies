@@ -1,0 +1,52 @@
+[
+ {
+  "id": "ses-yui-1",
+  "candidate": "yui",
+  "opted_in": true,
+  "date": "2026-07-08",
+  "problem": "Design a sequential stopping rule for the Q3 pricing test with small enterprise sample",
+  "approach": "Iterated with the assistant on three rules, simulated each in Python, chose the one with the lowest false-stop rate",
+  "outcome": "Rule adopted in the registry; simulation notebook shared with Northwind",
+  "quoted_prompt": "Explain why my first rule stops too early when the enterprise arm is small, and show me the simulation."
+ },
+ {
+  "id": "ses-yui-2",
+  "candidate": "yui",
+  "opted_in": true,
+  "date": "2026-06-29",
+  "problem": "Prepare to run the Northwind sync in English",
+  "approach": "Drafted talking points, rehearsed likely questions aloud with the assistant, asked for the two hardest follow-ups",
+  "outcome": "Ran the sync solo on July 15",
+  "quoted_prompt": "Ask me the hardest question their PM could ask about the holdout design, then critique my answer."
+ },
+ {
+  "id": "ses-kei-1",
+  "candidate": "kei",
+  "opted_in": true,
+  "date": "2026-06-24",
+  "problem": "Argue against the job-based reorg proposal with evidence rather than opinion",
+  "approach": "Asked for the research on lead time and ownership, checked the claims against the Accelerate data, wrote the counter-proposal",
+  "outcome": "Posted in #all-hands-questions; pilot approved",
+  "quoted_prompt": "What does the evidence actually say about fixed role definitions and delivery speed? Steelman the reorg first."
+ },
+ {
+  "id": "ses-kei-2",
+  "candidate": "kei",
+  "opted_in": false,
+  "date": "2026-08-01",
+  "problem": "(not shared)",
+  "approach": "",
+  "outcome": "",
+  "quoted_prompt": ""
+ },
+ {
+  "id": "ses-rin-1",
+  "candidate": "rin",
+  "opted_in": true,
+  "date": "2026-08-20",
+  "problem": "Build the FY27 staffing plan for the Tokyo analytics team",
+  "approach": "Modeled three hiring scenarios, drafted the exec narrative",
+  "outcome": "Roadmap doc",
+  "quoted_prompt": "Assume I stay as lead for two years. What does the junior rotation need to sustain itself?"
+ }
+]
