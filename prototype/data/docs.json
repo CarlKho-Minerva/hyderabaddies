@@ -1,0 +1,37 @@
+[
+ {
+  "id": "doc-yui-1",
+  "candidate": "yui",
+  "title": "Experiment registry: Kaede vs Northwind, field-by-field",
+  "date": "2026-05-27",
+  "excerpt": "Northwind records a pre-registered stopping rule and a named decision owner for every test. We record neither. Proposal: add both fields; I've filled them in retroactively for Q1."
+ },
+ {
+  "id": "doc-yui-2",
+  "candidate": "yui",
+  "title": "Q2 pricing test: results and what I'd change",
+  "date": "2026-07-30",
+  "excerpt": "The 3% increase held SMB retention flat (n=4,120 per arm). Enterprise arm was underpowered; next time I'd stratify by contract length up front rather than post hoc."
+ },
+ {
+  "id": "doc-kei-1",
+  "candidate": "kei",
+  "title": "One-owner pilot: design and month-1 results",
+  "date": "2026-08-05",
+  "excerpt": "Hypothesis: lead time is driven by ownership ambiguity, not role definitions. Two services, one accountable owner each. PR-to-prod lead time fell from 6.1 to 3.4 days. Confounders: both services had recent test coverage work."
+ },
+ {
+  "id": "doc-rin-1",
+  "candidate": "rin",
+  "title": "FY26 pricing analytics roadmap (draft for exec review)",
+  "date": "2026-08-28",
+  "excerpt": "Three priorities for the Tokyo team: elasticity by segment, a self-serve cohort tool for PMs, and a junior analyst rotation. Staffing assumes I stay as lead through FY27."
+ },
+ {
+  "id": "doc-rin-2",
+  "candidate": "rin",
+  "title": "Junior analyst program: outline",
+  "date": "2026-04-10",
+  "excerpt": "Twelve-week rotation across growth, pricing and finance. Weekly office hours. I'll run cohort one myself."
+ }
+]

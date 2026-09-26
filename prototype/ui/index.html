@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Evidence Layer</title>
+<style>
+  :root{--bg:#f6f5f1;--ink:#1a1a1a;--mut:#6b6b66;--line:#dedcd4;--card:#fff;--acc:#1f5fbf;--warn:#b4532a;--ok:#2d7a4f;--sub:#7a3fa0}
+  @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#15161a;--ink:#ececec;--mut:#9a9aa0;--line:#2c2e35;--card:#1e2027;--acc:#7aa7ff;--warn:#f0906a;--ok:#6fcf97;--sub:#c99cf0}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+  header{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid var(--line);background:var(--card);position:sticky;top:0;z-index:5}
+  h1{font-size:16px;margin:0;font-weight:600}
+  .tag{font-size:12px;color:var(--mut)}
+  .viewsw{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+  .viewsw button{border:0;background:transparent;padding:6px 12px;cursor:pointer;color:var(--ink);font-weight:500}
+  .viewsw button.on{background:var(--acc);color:#fff}
+  .viewsw button.on.sub{background:var(--sub)}
+  main{display:grid;grid-template-columns:260px 1fr;gap:16px;padding:16px;max-width:1300px;margin:0 auto}
+  @media(max-width:820px){main{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;margin-bottom:14px}
+  .cand{cursor:pointer;padding:10px;border-radius:8px;border:1px solid var(--line);margin-bottom:8px}
+  .cand.on{border-color:var(--acc);box-shadow:0 0 0 2px color-mix(in srgb,var(--acc) 30%,transparent)}
+  .cand b{display:block}
+  .bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin-top:3px}
+  .bar i{display:block;height:100%;background:var(--acc)}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  @media(max-width:820px){.row{grid-template-columns:1fr}}
+  .q{border-left:3px solid var(--acc);padding:8px 10px;background:color-mix(in srgb,var(--acc) 7%,transparent);border-radius:0 6px 6px 0}
+  .q.m{border-color:var(--warn);background:color-mix(in srgb,var(--warn) 7%,transparent)}
+  .k{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--mut);margin:0 0 4px}
+  ul.claims{list-style:none;padding:0;margin:0}
+  ul.claims li{padding:8px 0;border-bottom:1px dashed var(--line)}
+  .fn{display:inline-block;font-size:11px;padding:1px 6px;border-radius:10px;border:1px solid var(--line);color:var(--acc);cursor:pointer;margin-left:4px;background:var(--card)}
+  .fn:hover{background:var(--acc);color:#fff}
+  .tagc{font-size:11px;color:var(--mut);margin-left:6px}
+  .src{margin-top:8px;padding:8px 10px;border:1px solid var(--line);border-radius:6px;font-size:13px;background:var(--bg);display:none}
+  .src.show{display:block}
+  .ann{margin-top:6px;padding:6px 10px;border-left:3px solid var(--sub);font-size:13px;background:color-mix(in srgb,var(--sub) 8%,transparent)}
+  .ann b{color:var(--sub)}
+  textarea,input[type=text]{width:100%;padding:8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);font:inherit}
+  button.act{padding:8px 14px;border-radius:6px;border:1px solid var(--acc);background:var(--acc);color:#fff;cursor:pointer;font:inherit}
+  button.act.ghost{background:transparent;color:var(--acc)}
+  button.act.sub{background:var(--sub);border-color:var(--sub)}
+  .rank li{padding:8px 0;border-bottom:1px dashed var(--line)}
+  .fit{display:inline-block;min-width:44px;text-align:right;font-variant-numeric:tabular-nums;font-weight:600}
+  .audit{font-size:12px;color:var(--mut);display:flex;flex-wrap:wrap;gap:6px 14px}
+  .audit b{color:var(--ink)}
+  .never{color:var(--warn)}
+  pre{white-space:pre-wrap;font-size:12.5px;background:var(--bg);padding:10px;border-radius:6px;border:1px solid var(--line)}
+  .subject-banner{background:color-mix(in srgb,var(--sub) 12%,transparent);border:1px solid var(--sub);color:var(--ink);padding:8px 12px;border-radius:8px;margin-bottom:12px;font-size:13px}
+  .hidden{display:none}
+  .spin{opacity:.6}
+</style>
+</head>
+<body>
+<header>
+  <div><h1 id="title">Evidence Layer</h1><div class="tag" id="sub">loading…</div></div>
+  <div class="viewsw">
+    <button id="vEval" class="on" onclick="setView('eval')">Evaluator view (Aya, HR)</button>
+    <button id="vSub" class="sub" onclick="setView('subject')">What the candidate sees</button>
+  </div>
+</header>
+<main>
+  <aside>
+    <div class="card">
+      <p class="k">Candidates for one slot</p>
+      <div id="cands"></div>
+    </div>
+    <div class="card">
+      <p class="k">Criterion, in your own words</p>
+      <textarea id="crit" rows="3">Someone who will push back on a job-based culture rather than absorb it, and can hold their own in English.</textarea>
+      <div style="margin-top:8px;display:flex;gap:8px;flex-wrap:wrap">
+        <button class="act" onclick="doRank()">Re-rank on evidence</button>
+        <button class="act ghost" onclick="doMemo()">Decision memo</button>
+      </div>
+      <ol class="rank" id="rank" style="padding-left:18px;margin:10px 0 0"></ol>
+    </div>
+    <div class="card">
+      <p class="k">Audit</p>
+      <div class="audit" id="audit"></div>
+    </div>
+  </aside>
+  <section>
+    <div id="banner" class="subject-banner hidden"></div>
+    <div class="card" id="drift">
+      <p class="k">The same person, two descriptions</p>
+      <div class="row">
+        <div><p class="k">In their own words (Will Can Must sheet)</p><div class="q" id="ownwords">—</div></div>
+        <div><p class="k">Manager's paraphrase</p><div class="q m" id="mgrwords">—</div></div>
+      </div>
+    </div>
+    <div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap">
+        <p class="k" style="margin:0">Evidence with receipts <span id="evmeta" class="tag"></span></p>
+        <button class="act ghost" onclick="loadEvidence(cur,true)">Re-extract</button>
+      </div>
+      <ul class="claims" id="claims"></ul>
+    </div>
+    <div class="card hidden" id="memoCard"><p class="k">Decision memo</p><pre id="memo"></pre></div>
+  </section>
+</main>
+<script>
+let company=null, cur=null, view='eval', evcache={};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+async function init(){
+  company=await (await fetch('/api/company')).json();
+  $('#title').textContent=company.decision.title;
+  $('#sub').textContent=`${company.name} · purpose-locked page · backend: ${company.backend}`;
+  renderCands(); loadAudit();
+  selectCand(company.candidates[0].id);
+}
+function renderCands(order){
+  const ids=order||company.candidates.map(c=>c.id);
+  $('#cands').innerHTML=ids.map(id=>{const c=company.candidates.find(x=>x.id===id);
+    const ts=company.tag_scores[id]||{}; const top=Object.entries(ts).sort((a,b)=>b[1]-a[1]).slice(0,4);
+    return `<div class="cand ${id===cur?'on':''}" onclick="selectCand('${id}')"><b>${esc(c.name)}</b><span class="tag">${esc(c.role)} · ${c.tenure_years}y · mgr ${esc(c.manager)}</span>
+      ${top.map(([t,v])=>`<div class="tag" style="margin-top:4px">${esc(t)} <span style="float:right">${v}/5</span><div class="bar"><i style="width:${v*20}%"></i></div></div>`).join('')}</div>`}).join('');
+}
+async function selectCand(id){cur=id;renderCands();await loadEvidence(id,false);setView(view);}
+async function loadEvidence(id,force){
+  $('#claims').innerHTML='<li class="spin">extracting evidence…</li>';
+  const r=await (await fetch(`/api/evidence/${id}?force=${force?1:0}`)).json();
+  evcache[id]=r; renderEvidence(r);
+}
+function renderEvidence(r){
+  const {evidence,items,annotations}=r; const c=company.candidates.find(x=>x.id===evidence.candidate);
+  $('#evmeta').textContent=`· ${evidence.claims.length} claims, ${evidence.dropped_unsourced} dropped for no source · ${evidence.backend}`;
+  const wcm=Object.values(items).find(i=>i.source==='wcm'); const mn=Object.values(items).find(i=>i.source==='manager_notes');
+  $('#ownwords').innerHTML=wcm?`“${esc(wcm.will)}” <span class="fn" onclick="toggleSrc('${wcm.id}')">${wcm.id}</span><div class="src" id="src-${wcm.id}">${esc(wcm.rendered)}</div>`:'—';
+  $('#mgrwords').innerHTML=mn?`“${esc(mn.text)}” <span class="fn" onclick="toggleSrc('${mn.id}')">${mn.id}</span><div class="src" id="src-${mn.id}">${esc(mn.rendered)}</div>`:'—';
+  const annBy={}; annotations.forEach(a=>(annBy[a.source_id]=annBy[a.source_id]||[]).push(a));
+  const order=['declared_will','manager_paraphrase','revealed_will','strength','gap'];
+  const sorted=[...evidence.claims].sort((a,b)=>order.indexOf(a.kind)-order.indexOf(b.kind));
+  $('#claims').innerHTML=sorted.map((cl,i)=>{
+    const fns=cl.source_ids.map(s=>`<span class="fn" onclick="toggleSrc('${s}-${i}')">${s}</span>`).join('');
+    const srcs=cl.source_ids.map(s=>{const it=items[s];const anns=(annBy[s]||[]).map(a=>`<div class="ann"><b>${esc(c.name)}:</b> ${esc(a.text)}</div>`).join('');
+      const box=view==='subject'?`<div style="margin-top:6px;display:flex;gap:6px"><input type="text" id="an-${s}-${i}" placeholder="Add context or contest this item…"><button class="act sub" onclick="addAnn('${s}','an-${s}-${i}')">Add note</button></div>`:'';
+      return `<div class="src" id="src-${s}-${i}">${esc(it?it.rendered:s)}${anns}${box}</div>`}).join('');
+    const anns=cl.source_ids.flatMap(s=>annBy[s]||[]).map(a=>`<div class="ann"><b>${esc(c.name)} says:</b> ${esc(a.text)}</div>`).join('');
+    return `<li><span class="k" style="display:inline">${cl.kind.replace('_',' ')}</span> ${esc(cl.text)} ${fns}${cl.tags.length?`<span class="tagc">${cl.tags.map(esc).join(' · ')}</span>`:''}${anns}${srcs}</li>`}).join('');
+}
+function toggleSrc(id){const el=document.getElementById('src-'+id); if(el) el.classList.toggle('show');}
+async function addAnn(sid,inputId){const t=document.getElementById(inputId).value.trim(); if(!t) return;
+  await fetch('/api/annotate',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({candidate:cur,source_id:sid,author:cur,text:t})});
+  await loadEvidence(cur,false);}
+function setView(v){view=v; $('#vEval').classList.toggle('on',v==='eval'); $('#vSub').classList.toggle('on',v==='subject');
+  const c=company.candidates.find(x=>x.id===cur);
+  $('#banner').classList.toggle('hidden',v!=='subject');
+  $('#banner').textContent=v==='subject'?`You are seeing this page as ${c.name}. It is exactly what the evaluator sees. Open any source and add a note; the note appears on the evaluator's page.`:'';
+  if(evcache[cur]) renderEvidence(evcache[cur]);}
+async function doRank(){const crit=$('#crit').value.trim(); $('#rank').innerHTML='<li class="spin">re-ranking on evidence…</li>';
+  const r=await (await fetch('/api/rank',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({criterion:crit})})).json();
+  $('#rank').innerHTML=r.ranking.map(x=>`<li><span class="fit">${x.fit}</span> <b>${esc(x.name)}</b><div class="tag">${esc(x.rationale)}</div>${x.receipts.map(rc=>`<div class="tag">↳ ${esc(rc.text)} ${rc.source_ids.map(s=>`<span class="fn" onclick="selectCand('${x.candidate}')">${s}</span>`).join('')}</div>`).join('')}</li>`).join('')+`<li class="tag" style="border:0">${r.backend} · fit is a re-ordering of evidence for this criterion, not a verdict</li>`;
+  renderCands(r.ranking.map(x=>x.candidate));}
+async function doMemo(){const crit=encodeURIComponent($('#crit').value.trim()); const t=await (await fetch(`/api/memo/${cur}?criterion=${crit}`)).text(); $('#memo').textContent=t; $('#memoCard').classList.remove('hidden'); $('#memoCard').scrollIntoView({behavior:'smooth'});}
+async function loadAudit(){const a=await (await fetch('/api/audit')).json();
+  $('#audit').innerHTML=`<span><b>Purpose:</b> ${esc(a.purpose)}</span>`+Object.entries(a.used).map(([k,v])=>`<span><b>${k}</b> ${v.count} · ${esc(v.note)}</span>`).join('')+Object.entries(a.never_read).map(([k,v])=>`<span class="never"><b>never read:</b> ${k} (${v.count}) · ${esc(v.note)}</span>`).join('');}
+init();
+</script>
+</body>
+</html>
