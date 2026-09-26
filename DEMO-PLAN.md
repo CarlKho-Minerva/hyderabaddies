@@ -2,7 +2,7 @@
 
 Written Sat Sep 26 ~02:00 PDT, right after the VP meeting. Input: `interviews/5_VP_MEETING_SUMMARY.md`, `STEVEN-RESEARCH.md`, `codex-packet/outputs/00-start-here.md`, `05-saturday-runsheet.md`, and the Day 1 deck (`codex-packet/work/event.txt`). This is a plan for Carl and Steven to argue with, not a decision.
 
-Steven's "redefining innovation" glasses transcript is **not in the repo** (searched for "innovation", "redefin", "define" across `interviews/`, `BRAIN*.md`, `codex-packet/`). What follows infers his framing from the Vouch memo and his lines in the VP meeting. Drop the transcript in `interviews/raw/` and this section should be re-checked.
+Steven's "defining innovation" riff is now in `interviews/raw/6_steven-innovation_01-30-00.md` (glasses, ~01:30 Sat). Section 1 and the scripts in section 9 are built on it.
 
 ## 0. Fix the clock first
 
@@ -16,9 +16,19 @@ The constraints in the Day 1 deck (`event.txt` pp17–19) are not "1.5 min preli
 
 So there are three deliverables of increasing length that must nest: the 90-second video is the spine, the prelim wraps it with problem and business, the final adds architecture depth and a second live scenario. Build the 90 seconds first and everything else is packaging.
 
-## 1. What we are actually selling (one sentence)
+## 1. The story spine: Steven's definition of innovation
 
-> **Evidence, with receipts, that both the manager and the employee can see, for one high-stakes people decision.**
+From the glasses, right after the VP meeting:
+
+> "Innovation has to be very careful. The way that we perfectly design for the humans." (01:30:08)
+> "Innovation is changing the way you think." (01:30:23)
+> "Some innovations, like nukes, killed people. Some innovations actually saved the people." (01:33:38)
+
+That is the whole pitch, and it maps onto the VP meeting cleanly. The careless version of this product exists: covert Slack mining, an AI score, a page 3,000 managers can see and the employee cannot. The VP told us that version is legal and stalled, because it is "creepy" and nobody is accountable to the employee. The careful version changes what a people decision is made of: from what the boss remembers to what the person wrote and did, and it lets the person see the page. Same data, opposite design. That is "changing the way you think" for the evaluator (think in evidence, not impressions) and for the employee (the record is yours, not about you).
+
+Steven's worry at 01:30:41, "how this would land with the American audience": it lands. Two of the four judges built their careers on worker-facing transparency (Glassdoor's co-founder, Indeed's CTO who runs AI ethics monitoring). Careful is not a Japanese hedge here; it is the differentiator. Skip the nukes line on stage; keep "careful" and "changes how you think".
+
+**One sentence:** evidence, with receipts, that both the evaluator and the employee can see, for one high-stakes people decision.
 
 Not "a dashboard that consolidates Salesforce, Gmail and Slack". Consolidation is the plumbing, and the VP said Recruit already has an internal prototype of roughly that (0:56:27), Workday is in the space (0:38:58), and he has "heard this pitch before" (0:37:14). If we pitch consolidation, the Recruit-side judges shrug.
 
@@ -127,3 +137,56 @@ Carl's idea, thinking out loud: employees' corporate Claude accounts, and the Cl
 **Do not pitch it as productivity or "how hard they work."** Two reasons, both from this week: the moment it measures effort, people type "complete my job" and paste everything (Carl's own objection, and the gaming problem from the Philippines example at 0:46:51); and covert capture is the exact thing the VP said blocks rollout to 3,000 managers. Session count, token volume and hours are the wrong metrics and would sink the pitch with the Indeed and Glassdoor judges.
 
 **Demo cost.** One extra evidence source in the fixtures: two or three fictional session summaries per candidate (problem, approach, outcome, one quoted prompt), each with a source id, feeding the same extractor. Half a day at most, after the core spine runs. Worth a single line on the architecture slide ("sources: public channels, shared docs, WCM sheets, opted-in AI session summaries") and a strong Q&A answer to "what data no one else has."
+
+
+## 9. Scripts, timed
+
+Official limits from the Day 1 deck: submitted video ≤ 90 s; prelim 3 min + 1.5 Q&A; final 6 + 6. Carl's working targets are tighter (1.5 min and 3 min), which is fine: a 90-second spine that also serves as the prelim core, and a 3-minute version that is the prelim as delivered and the first half of the final. Word counts assume ~150 spoken words per minute.
+
+### 90 seconds (video, and the prelim core) — ~225 words
+
+Screen cues in brackets. Prototype: `prototype/`, run with `make run-heuristic` or `make run`.
+
+> [Title card] Every year, HR at a fifty-thousand-person company picks who gets the two-year overseas posting. It costs about as much as a house. And the decision runs on what the boss remembers.
+>
+> [Click Yui Sato] Yui wrote on her own sheet: "I want to work with the US product team on pricing experiments." Her manager wrote: "loves travel, flexible on location." Same person. That is not a data problem. It is a translation problem, and it gets worse at every level up.
+>
+> Steven said it on the way here: innovation has to be careful. It has to be designed for humans. So we did not build a score. We built receipts.
+>
+> [Click a footnote chip] Every line links to what she actually did: the partner notes she volunteered to take, the English practice she asked for, the experiment she designed.
+>
+> [Type a criterion, Re-rank] Type what you actually need, in your own words. The evidence re-orders, and it shows you why.
+>
+> [What the candidate sees] And here is the careful part. Yui sees the same page. She can add context. [Add note] Her note lands on the evaluator's desk before the decision is made.
+>
+> [Decision memo] One page. Every claim sourced. What we read. What we never read.
+>
+> Innovation is changing the way you think. We change what a people decision is made of: from what the boss remembers to what the person did. And we let the person see it.
+
+### 3 minutes (prelim as delivered; first half of the final) — ~450 words
+
+> **Problem (30 s).** This week a VP of HR at a fifty-thousand-person company told us how internal matching works: twice a year, a Will Can Must sheet, a conversation with the boss, and then HR decides from memory. He said "will" has no metric. He said the words change as they pass up the chain. He said this is the thing HR is most troubled by. [Only quote what he clears. No pilot details.]
+>
+> **Insight (25 s).** Everyone in this space, including the company's own prototype and Workday, is building the same thing: mine the data, produce a score, show managers. It is legal, and it is stalled, because employees find it creepy and nobody is accountable to them. The blocker is not data. It is design. Innovation has to be careful. It has to be designed for the humans in it.
+>
+> **Demo (90 s).** [The 90-second spine above, live if the network holds, else the recording. Say it is a recording if it is.]
+>
+> **Impact (25 s).** The customer wants to put this in front of roughly three thousand first-line managers and cannot today. [VERIFIED, from the meeting, if cleared.] The spend it would replace, training and matching systems, is on the order of two hundred million yen a year at their low estimate. [RESEARCH: from the meeting; time basis unconfirmed.] The number that matters more: one wrong posting is a two-year, house-priced mistake for the company and a career detour for the person.
+>
+> **Differentiation (15 s).** Same skill tags they already have. Plus provenance on every claim. Plus the employee's side of the page. Workday scores. We cite.
+>
+> **Architecture (20 s).** [Diagram] Sources pass a policy gate: purpose, allowed sources, private messages excluded by config. An extractor produces claims; any claim without a source id is dropped. A criterion re-ranks the evidence; a human decides. Two views over one store. Fixtures are fictional; extraction, re-ranking, annotation and the memo run live.
+>
+> **Roadmap (10 s).** One decision type with one HR team. Then mentor discovery and onboarding matching, the same engine on a second decision.
+
+### Final (6 min): what to add
+
+The 3-minute script, then: a judge supplies the criterion live; the opted-in AI session summaries as "data no one else has"; the architecture slide expanded to the policy gate and the citation store, with the truth table on screen; the answer to "why not the internal prototype" in one breath. Q&A prep is in `PREP-HOJOON-CHA.md` and section 4.
+
+### Q&A lines to have ready (both rounds)
+
+- **Who pays?** HR COE, for one decision type, replacing part of a matching and training budget it already spends.
+- **Why not Workday or their own prototype?** They produce a score for managers. We produce receipts for both sides. The difference is what unblocks rollout.
+- **What if the summary is wrong?** The person it is about sees it and contests it before the decision. Nothing is a verdict.
+- **Which data?** Public channels, shared docs, sheets already given to HR, AI sessions the person opts in. DMs are excluded by config; the audit strip shows the count of items never read.
+- **What is hard-coded?** The company and people. What runs: extraction with citations, re-ranking on a free-text criterion, the annotation round-trip, the memo.
