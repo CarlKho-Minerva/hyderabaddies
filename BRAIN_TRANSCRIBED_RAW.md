@@ -503,3 +503,324 @@ There we are, crook. Oh, no. Hanwha, Hanwha. Find her workspaces.
 
 
 </details>
+
+## Segment 2026-09-25_19-40-00.gemini.json
+**Summary:** The recording captures an informal working session or hackathon meetup in a bustling public space filled with background conversation and ambient noise. Two collaborators briefly coordinate their tools, notes, and repository access; one steps away to grab paper and a pen while the other checks their GitHub repository and confirms updates from Slack messages. Over the course of several quiet working intervals interspersed with short check-ins, they discuss onboarding, reviewing code, and organizing materials for their project, referred to as 'Recruit Hackathon'. The atmosphere is casual, relaxed, and focused on collaborative development amid a lively public environment.
+
+<details><summary>Verbatim</summary>
+
+**[00:00–00:27]** _neutral_  
+[ambient: background chatter]
+
+**[00:27–00:30]** _casual_  
+Oh, they're under Azure.
+
+**[00:30–00:43]** _neutral_  
+[ambient: background chatter]
+
+**[00:43–00:48]** _appreciative_  
+I saw your GitHub invite. Thanks for that.
+
+**[00:48–01:31]** _neutral_  
+[ambient: background chatter]
+
+**[01:31–01:34]** _casual_  
+I'm just going to grab a paper and pen. I'll be right back.
+
+**[01:34–01:36]** _normal_  
+Thanks.
+
+**[01:36–02:24]** _neutral_  
+[ambient: background chatter]
+
+**[02:24–02:26]** _inquisitive_  
+Was she onboarding us?
+
+**[02:26–02:32]** _amused_  
+Well, she was like, he's like, having, having a beer right now, so she's [laughter] She said that she wanted to do this like, later.
+
+**[02:32–02:35]** _relieved_  
+Perfect. Okay.
+
+**[02:35–02:44]** _focused_  
+[ambient: paper rustling]
+
+**[02:44–02:47]** _mumbled_  
+Robert
+
+**[02:47–04:54]** _neutral_  
+[ambient: background chatter]
+
+**[04:54–04:58]** _conversational_  
+We've done a lot of talking. A lot of talking.
+
+**[04:58–05:07]** _amused_  
+[laughter] [ambient: background chatter]
+
+**[05:07–05:10]** _normal_  
+We'll be right back.
+
+**[05:10–06:17]** _tired_  
+[sigh] [ambient: background chatter]
+
+**[06:17–06:23]** _neutral_  
+[cough] [throat-clearing]
+
+**[06:23–06:55]** _neutral_  
+[ambient: background chatter]
+
+**[06:55–07:01]** _amused_  
+[laughter] [ambient: background chatter]
+
+**[07:01–07:05]** _neutral_  
+[ambient: background chatter]
+
+**[07:05–07:08]** _curious_  
+Did you see the updates?
+
+**[07:08–07:11]** _inquiring_  
+On the Slack messages?
+
+**[07:11–07:16]** _explaining_  
+Yeah. Oh, no. Not on Not on That's like a raw dump.
+
+**[07:16–07:23]** _informative_  
+So like, I actually cleaned it up and put it on our GitHub GitHub thing. So it's like live on the shared repo.
+
+**[07:23–07:26]** _satisfied_  
+Perfect.
+
+**[07:26–07:37]** _relaxed_  
+[sigh] [ambient: keyboard clacking]
+
+**[07:37–08:48]** _neutral_  
+[ambient: background chatter]
+
+**[08:48–08:52]** _neutral_  
+[throat-clearing]
+
+**[08:52–09:21]** _neutral_  
+[ambient: background chatter]
+
+**[09:21–09:25]** _content_  
+Perfect, Recruit Hackathon.
+
+**[09:25–09:41]** _neutral_  
+[ambient: background chatter]
+
+**[09:41–09:43]** _neutral_  
+[cough]
+
+**[09:43–10:00]** _neutral_  
+[ambient: background chatter]
+
+</details>
+
+
+## Segment 2026-09-25_19-50-00.gemini.json
+**Summary:** In a noisy public event space or hackathon hall, the speaker walks through various areas while occasionally conversing with peers and brainstorming interview tactics for a project focused on the 'future of work'. Initially checking in with colleagues about code access credits, the speaker moves on to outline interview questions aimed at uncovering employee pain points, particularly considering roles like travel agents and exploring daily workflows and disliked tasks. Throughout the recording, background crowd noise and chatter are pervasive as the speaker walks around, observes the environment, and plans an interview guide with team members before heading to the next destination.
+
+<details><summary>Verbatim</summary>
+
+**[00:00–01:14]** _neutral_  
+[ambient: background chatter]
+
+**[01:14–01:17]** _neutral_  
+[throat-clearing] [ambient: background chatter]
+
+**[01:17–01:54]** _neutral_  
+[ambient: background chatter]
+
+**[01:54–01:57]** _casual_  
+Let me know once you approve the sentence. [ambient: background chatter]
+
+**[01:57–02:00]** _friendly_  
+Sorry? Okay, thanks. [ambient: background chatter]
+
+**[02:00–02:04]** _inquisitive_  
+Did you Did your Codex work? [ambient: background chatter]
+
+**[02:04–02:08]** _casual_  
+I got the Codex credits. Okay, good. I'm just trying to stay away from it just like [inaudible] myself. [ambient: background chatter]
+
+**[02:08–02:16]** _relieved_  
+Perfect, cuz I was just They said they like, "Oh, put a check mark if you also are experiencing it," but you're not, so. [ambient: background chatter]
+
+**[02:16–02:33]** _conversational_  
+Cuz I did it like a while ago. Just gotta go talk to like, [ambient: background chatter] who is it? You give them keyword, "What are the most frequent words?" How about your account? [ambient: background chatter]
+
+**[02:33–02:39]** _hurried_  
+I'll catch up soon cuz I'm almost done. I'll catch up soon. [ambient: background chatter]
+
+**[02:39–03:26]** _neutral_  
+[ambient: background chatter]
+
+**[03:26–03:39]** _thoughtful_  
+Awesome. Now we're going to be interviewing peoples [ambient: background chatter] Uh, people from Recruit hackathons, um. [ambient: background chatter]
+
+**[03:39–04:22]** _brainstorming_  
+Awesome. Now we're going to be interviewing people. Help us have a structured interview because we're actually pretty confused given the slides, right, The Future of Work. Cuz like, our B2B idea is solid for people like Shion, but I'm not sure about everyone else. So, now we're going to be talking asking Shion to talk to us and to help us um connect with other employees, and my plans for are is talk about that travel agent thing first, and then second is like what's one thing you'd wish you could shortcut, which I think could be improved in terms of phrasing cuz like, a few candidates I had before was like, "Oh, [gasp] what do you hate about your job?" or "What's If, like, imagine you're back in your desk when you're not talking to people, what are you doing?" And then like, finding pain points from that. Is that a good way to start? [ambient: background chatter]
+
+**[04:22–05:33]** _neutral_  
+[ambient: background chatter]
+
+**[05:33–05:40]** _mumbled_  
+So confusing. What did you have to double-check? [ambient: background chatter]
+
+**[05:40–05:50]** _neutral_  
+[ambient: background chatter]
+
+**[05:50–06:05]** _focused_  
+Add this as like a interview guide with Stephen, like a very quick like, um look-up thing, cuz like I really like um the whole thing, but it's too step-by-step. [ambient: background chatter]
+
+**[06:05–06:23]** _distracted_  
+I mean like [ambient: background chatter] [inaudible] [ambient: background chatter]
+
+</details>
+
+
+## Segment 2026-09-25_19-56-22.gemini.json
+**Summary:** In a bustling cafeteria or lounge setting, a software engineer named Koki from Recruit discusses internal review processes, organizational bureaucracy, and legal compliance workflows with two colleagues. Koki explains how review processes have been expedited from taking weeks across multiple legal and organizational teams to often requiring only a single person's approval via Slack, though he notes that this concentrated approval role brings tedious responsibility that he prefers to avoid in favor of building products. A second colleague, Carl, joins the conversation late, clarifies Koki's name and role, and inquires about interactions with the legal team when launching products. The team briefly touches upon Recruit's adoption of tools like Cloud Code and heavy reliance on Slack before Carl asks Koki to describe a breakdown of his typical workday and his work on Japanese job boards while based in Japan.
+
+<details><summary>Verbatim</summary>
+
+**[00:00–00:15]** _neutral_  
+[ambient: background music and chatter]
+
+**[00:15–00:27]** _friendly_  
+[pant] Hi. I'm his teammate. Hi, nice to meet you, I'm Carl. Are you also from Recruit? Yeah, I'm Koki. Oh, thank you.
+
+**[00:27–00:36]** _curious_  
+Who's conducting this interview? Oh, so you mentioned that they're really like expediting like review processes, like how are they expediting?
+
+**[00:36–00:59]** _explanatory_  
+Like for example, let's say, before, you had to involve the legal team and like like different teams, but now, for some of the things, you just have to get like permission from one person, and that's okay. Mhm. Right? Maybe screen reviews took like weeks, now it's like maybe like one Slack away. Potentially.
+
+**[00:59–01:15]** _thoughtful_  
+Okay. Does it mean that one person, that specific one person who's like going to approve that request, gets all the responsibility, or that that person's going to be like [unclear: the person responsible?]? Yes, I- I think that comes with responsibility as well. So like now, there's like one person that's responsible for what they approve.
+
+**[01:15–01:23]** _direct_  
+Have you thought of yourself being that one person who's approving all the requests and being responsible for it, and would you be willing to do it? No.
+
+**[01:23–01:46]** _candid_  
+And why not? It's tedious and that's not, that's- that's something that I'm not interested in doing. Like I love building things, right? Um and like doing those kind of, you know, aligning teams and things like that, that is not what I would like to do. Right.
+
+**[01:46–02:08]** _casual_  
+Sorry, uh just quick interjection, I- you mentioned the legal team, and since I came in late I was just really interested. Um, sorry, can I have your name again? I'm Koki. Koki. Okay, like- Koki and Carl. Carl, there we go. Carl, you're Koki as in like cookie, or like Coke the drink? Uh, either is fine. Koki, okay.
+
+**[02:08–02:35]** _informative_  
+And what was your role, and you're um- you mentioned the legal team so I was wondering what- I'm a soft- I'm a software engineer. Software engineer. And you interact with the legal team on a day-to-day basis or-? Not day-to-day, but like at least in Recruit, I'm not sure um probably a lot of the big tech companies as well, like when you trying to ship a product, Right. right? You al- always need to consult the legal team All right. in some aspect, right? Because like there is always a risk, and the legal team is there to like assess risks and see if it's acceptable, whether it's complying to, you know, legal restrictions and things like that.
+
+**[02:35–03:08]** _conversational_  
+Thank you. Um just to not risk getting the same answer, what did you ask him so far? Oh, I've been just like basically asking like what does he do, like you know, what frustrated like most of to him, and then he just like tells that like the big techs, you know, case he's working at, Ah, bureaucracy. you know, it's slow, you know, like they're slow in like in adapting to new technologies. And I was like just like, you know, kind of like trying to see like how has been the process going on after they- all the AI things happened on, cuz like did they just adopt any um Cloud Code thing? I know it's like in [unclear: fruition?] just how they-
+
+**[03:08–03:22]** _engaged_  
+Oh, you just adopted the Cloud Code? Like a month ago, right? [cough] A few months back. And you guys live in Slack? Your team like Recruit lives on Slack? Mhm. Slack. As in like do you do your day-to-day work? Yeah, heavily use Slack.
+
+**[03:22–03:38]** _inquisitive_  
+I see, that explains the Azure Enterprise like [laughter] extra layer of verification. So, I guess, um, I'm gonna ask you this again. I'm not sure if he asked this, but I was wondering what does your like, if you could split your days into like four episodes, like how would you describe the work you do? Is cuz are you based in the US or are in Japan? No, I'm in Japan. Uh-huh. Um, so I work on Japanese job boards like building
+
+</details>
+
+
+## Segment 2026-09-25_20-00-00.gemini.json
+**Summary:** In this customer discovery and informational interview conducted at a busy tech event or hackathon, an interviewer speaks with Koki about his work on developing a specialized vertical job board for construction workers within a larger company structure (Recruit/Indeed). Koki explains the inception of the project sparked by a product manager with direct construction experience, the entrepreneurial culture that requires internal pitching and team recruitment, and their reliance on rapid prototyping and AI to maintain a lean team size. They discuss internal decision-making challenges regarding feature prioritization, highlighting how domain expertise guides MVP scoping over prolonged debates. Following the interview, the interviewer debriefs with a teammate to reflect on the depth, tone, and effectiveness of the questioning technique used during the conversation.
+
+<details><summary>Verbatim</summary>
+
+**[00:00–00:19]** _informative_  
+Right now, I'm working on like spinning up trying to spin up a new job board, like a [ambient: background chatter] vertical job board right now. Indeed is like a very general job board, right? It has all the occupations right now. We're trying out like building a vertical job board that's going like into niche market, like specializing in like one sector [ambient: music playing in background] like construction.
+
+**[00:19–00:34]** _curious_  
+That's very interesting. What what what triggered this request from your PM, or do you know somehow like what was the inner workings on why they even decided to have you do this, or were you the one who sort of like led this initiative to make a vertical job board?
+
+**[00:34–00:46]** _reflective_  
+Yeah, so like I wasn't involved in the beginning. I guess like me and my There's like a well, it's interesting um how this project came to life, I guess. Like there was one There was this one PM who had this idea who had a side gig as a construction worker. [ambient: background chatter]
+
+**[00:46–00:54]** _engaged_  
+[sigh] Construction worker, okay. So, yeah. So, our product is for construction workers, right? So, Right.
+
+**[00:54–01:07]** _conversational_  
+um and he basically pitched this idea to one of the head of the product at uh Recruit. [ambient: background chatter] Mhm. And basically, Recruit is a very flexible company as well. [ambient: background chatter]
+
+**[01:07–01:19]** _amused_  
+They did mention the entrepreneur-ish side of Recruit, so um Yeah. It's like, "Why not try it?" right? So, what happens like when you pitch someone something, and you know, they ask you to try it, you have to recruit people yourself, [laughter] right? Right.
+
+**[01:19–01:36]** _enthusiastic_  
+Interesting! Okay, as This is a question from a new grad because [laughter] I it's very interesting to see how you guys do workforces, cuz I've heard NVIDIA does the similar thing where you sort of like pitch your own project, recruit people who are who are passionate at the same problem. What made you want to join this guy?
+
+**[01:36–01:59]** _thoughtful_  
+Well, so I think it's very rare at Recruit Well, although you call you know, they say that like you know, entrepreneurship is like very valuable It's one of the values they have, like it's not often that you could stumble upon like spinning up a new product, [ambient: background chatter] right? At a large company, right? Most of the work is usually, you know, enhancing already big products, right? So, I wanted a chance to Mm. Mm. Ah. I see.
+
+**[01:59–02:14]** _inquisitive_  
+start something from from scratch essentially. And like do your own marketing, [ambient: background chatter] things like that. How big is the team? How much people have you guys recruited?
+
+**[02:14–02:37]** _lighthearted_  
+So, it's now small. We can make it small because most of the work we can just use AI. [laughter] Right. Especially when you're like doing rapid prototyping, and you don't worry too much about the quality [laughter] right now. Mhm. AI is a very good use case for now.
+
+**[02:37–03:08]** _inquisitive_  
+Thank you. And, I guess one of the more like hackathony questions I have is like, when you were working on this project, like I guess we could help is like recall the last time you were actually in the desk, what was something that, I don't know, mildly annoyed you, frustrated, wished like you could like Oh, sorry. Wished you could like uh do a quick shortcut. It goes on every 5 minutes for photos, um but yeah. Um was there ever such a feeling like a time where you felt that and like was wondering what that was? Apart from the legal team that you mentioned? [ambient: background chatter]
+
+**[03:08–03:38]** _reflective_  
+I think it's um sometimes frustrating Well, I wouldn't call it frustrating, but like challenging when you're a small team, and uh [ambient: background chatter] people have different ideas, [ambient: background chatter] Right. like aligning within your team always. And like It's probably the same for like any kind of project, but like aligning your team is pretty difficult when people have different perspectives um on the problem. Mhm.
+
+**[03:38–03:59]** _curious_  
+But other than that, like technically and things like that, I don't have any frustrations. Okay. If If it's not NDA, I was wondering, since the idea seems pretty straightforward, you guys are going for like more niche vertical jobs, what was the thing that other people had different perspectives on, if it's not NDA?
+
+**[03:59–04:19]** _serious_  
+Like Like even even within that, it when you actually try and do it, it's very challenging to example, figure out which feature you're going to build out first, right? Mm. You don't want to start building like a full-blown job board when you don't even know [ambient: background chatter] if it's going to work out or not, right? Right.
+
+**[04:19–04:45]** _analytical_  
+You want to really kind of slim it down, cut it down, and like try out one feature. Mm. And even figuring out, you know, what's the what's the one feature you want to try out first is very difficult, right? Like people For example, is it going to be search, or is it going to be recommendation? [ambient: background chatter] Mm. Like what What is the core hypothesis you have that's going to like attract the user, right?
+
+**[04:45–05:07]** _conversational_  
+I'm trying to put myself in your shoes with this. Um so when this like discussion happened, was it like online or was it like in-person meeting you guys have? I personally prefer in-person meetings, [ambient: background chatter] Of course. especially when the team is small, and you have to move fast, like Mhm. in person makes it much easier to discuss.
+
+**[05:07–05:39]** _pensive_  
+So how did the last discussion conclude on like when you guys were I don't know, fighting over I I guess fighting's not the right word, but like when you guys were deciding which features you guys wanted to put in first? Like first of all, who won actually, and then how did that person win? How did that persuade? Well, I I think in in the end it was um the Well, you have to decide, right? Like and especially if you haven't tried it Uh well, if you haven't tried it out, no one knows which one's right, right? And um [throat-clearing] Mhm.
+
+**[05:39–06:05]** _decisive_  
+So basically, we have a rule that, you know, the product manager, product owner gets to decide. Mm. I see. Cuz you can debate all all all day and get nowhere, Mhm. but that's a waste of time, right? I mean, Right, right. while you're debating, you can try both ideas. So, it's like a a culture of like prototyping over debating.
+
+**[06:05–06:36]** _inquisitive_  
+Okay, interesting. And so you guys So, I imagine this discussion was like time-bound, and that like time-bounded like just like forced everyone to a decision at the end. But um how did you think that product not [sigh] I guess you can't put yourself in the shoes of the product manager, but what did you think made like persuaded him? Apart from the like that you said you mentioned you prototyped it. So did you guys like do it in a meeting, prototype during the meeting, and then have like the interactions go on?
+
+**[06:36–07:05]** _confident_  
+Yeah, we we usually try and do like very quick prototype. Um Is this before you go into the meeting or like during the meeting? Both. It could be both. Okay. Yeah. But usually, um the reason why we let the product owner make the decision in the end is because, again, he's the one who has experience doing construction working. So, he has the most domain knowledge, right? I see. So, we trust his his intuition.
+
+**[07:05–07:22]** _friendly_  
+Of course, the intuition. Well, I have no more other questions. Thank you so much for helping letting us bother you. [laughter] No problem. Thanks, Koki. Yeah. Yeah, we're good. Thank you so much, Koki. How was the hackathon going? Um pretty good apart from the Codex issue [laughter] that we're facing. Uh no, it's pretty chill. Like we're utilizing GCP credits for um Vertex, and it's pretty cool. Yeah, it's been pretty helpful so far.
+
+**[07:22–07:37]** _polite_  
+Yeah, I'll try and get that figured out um as soon as possible. Yeah. Perfect. Thank you so much again. Yes. [ambient: background chatter]
+
+**[07:37–07:49]** _evaluative_  
+Okay. Critiques? How do you think Did I think Do you think I dug too deep? What do you think of the of the customer discovery call? Was I too aggressive? Did he fee- Was he ever I think you're just like a little [unclear: interpret?] Right.
+
+</details>
+
+
+## Segment 2026-09-25_20-07-50.gemini.json
+**Summary:** The speaker and their companion are seated in a bustling public hall or cafeteria discussing wearable technology and eye wear. The speaker explains that they are using a headset camera display because they lost their regular glasses at a conference and navigating healthcare costs led them to use the device's optical inserts instead. They mention intending to disable the camera and demonstrate Gemini Live 2.5 before declining food because they ate a large oyster meal earlier, after which the companion leaves briefly to fetch hot water while ambient hall noise continues.
+
+<details><summary>Verbatim</summary>
+
+**[00:00–00:08]** _conversational_  
+...and I should disable the camera thing for now. Um, but um. [ambient: background chatter] Yeah, no, no. But I can't see without it. [laughter] Anyway,
+
+**[00:08–00:22]** _casual_  
+No, cuz I lost my glasses in a conference, and that's why like this was the closest thing cuz US healthcare. So I already had this, so I was like, okay, might as well spend money on the optics.
+
+**[00:22–00:38]** _reflective_  
+I will turn it off. Yeah. That's what I'm going to do now. But um, yeah, I asked like the direction of my questions went like that because very random idea is um, let me show you the Gemini Live 2.5, actually. [sigh]
+
+**[00:38–00:50]** _friendly_  
+Me? I had a big meal before I arrived here. The oyster um- Please, please, please.
+
+**[00:50–02:04]** _neutral_  
+[ambient: background chatter]
+
+**[02:04–02:08]** _subdued_  
+Yeah. [ambient: background chatter]
+
+</details>
