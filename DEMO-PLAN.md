@@ -102,7 +102,7 @@ Everything else (radar charts, animations, more tags, Gmail connector) is polish
 
 ## 6. Getting the VP to demo it himself
 
-He offered "you can bother me anytime" (1:03:54). The ask is small and specific: five minutes, his own decision type, our laptop. Give him a card with five steps:
+The reconciled transcript shows "you can bother me anytime" (1:03:51) was Carl's offer to him, not his to us, so there is no standing invitation. The ask goes through Shion and is small and specific: five minutes, his own decision type, our laptop. Give him a card with five steps:
 
 1. Here are three people for one exchange slot. Pick one from the manager notes alone.
 2. Open a candidate. Read the declared will next to the manager's paraphrase.
