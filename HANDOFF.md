@@ -2,6 +2,11 @@
 
 Carl's Codex thread hit its usage limit around 23:14 on Fri. This file is where it stopped and what's in the repo now.
 
+## UPDATE 01:30 Sat: VP meeting happened (72 min, ~00:14-01:26)
+- Summary: `interviews/5_VP_MEETING_SUMMARY.md` (timestamped, read this first)
+- Full transcript: `interviews/5_VP_MEETING_TRANSCRIPT.md`, raw JSON `interviews/raw/5_vp-meeting_full.json`
+- The "Still open" items below about the VP meeting are superseded.
+
 ## Read in this order
 1. `codex-packet/outputs/00-start-here.md`: the decision brief
 2. `codex-packet/outputs/03-council-index.md`, section "What the rehearsals actually resolved"
