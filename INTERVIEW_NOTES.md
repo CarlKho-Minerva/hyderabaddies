@@ -39,6 +39,57 @@
 
 ---
 
+## Shion Kuroda — Recruiter, New Grad Hiring Team (Global Talent Acquisition)
+
+### 1 — Who are you
+* Role: "Recruiter, actually... in the new grad uh hiring team, especially uh global talent acquisition."
+* Organization: "COE" (covers new grad hiring, mid-career recruiting).
+* Team size: 3–4 people in global talent acquisition; "new grad team itself has 30."
+* Day-to-day: Manages sourcing (campus events, career forums), selection, and attraction; coordinates 10–20 internal engineers/employees per year for internships, mentorships, and 1-on-1s.
+
+### 2 — Tell me the last time
+* Sourcing engineer mentors (e.g., Hiro) for international events/hackathons: Had a candidate list, checked with manager first because mentorship is "outside of their official... mission," sent an explanatory document, then arranged flights and lodging.
+* Preparing candidate data for internship mentors: Evaluated ~40 student candidates across sourcing events (e.g., 30 attendees at a Minerva event) and selection interviews (20 candidates), needing to assemble overview dossiers for engineer mentors.
+
+### 3 — Where'd it get annoying
+* Performance data silos: "The first time... We don't have information about like how his performance, or like... how the other managers eval- evaluate him."
+* Organizational walls: "New grad like recruiting team and uh HRBP... is separated. And the data is separated."
+* Siloed talent pools: Global TA recruits global engineers but lacks familiarity with internal engineers, while the engineering TA team holds those relationships.
+* Rigid internal tooling: "Recruit's version of Salesforce is very customized and very complicated. So we cannot like arrange by ourselves, but like sales Salesforce uh engineer... it takes long time."
+* Access controls: Salesforce is restricted to HR; sharing candidate data directly with engineering mentors runs into heavy security authorization barriers.
+* Travel logistics: Multi-layered administrative chain: "My boss ask assistant to arrange it, like, then that assistant ask travel agency to do that arrangement."
+
+### 4 — How do you cope today
+* Mentor matching: Relies on "human knowledge," personal networks, asking peer HR reps directly ("Do you know this person?"), and maintaining an approved list of repeat/famous employees for 1-on-1s.
+* Data consolidation: Exports data out of Salesforce into Excel.
+* AI dossiers: Uses enterprise AI: "Very recently, we started using Claude, actually. Like we are allowed to use corporate like version of Claude... I use very often, very, very often." Uses Claude to synthesize meeting recordings, interview transcripts, and entry sheets into detailed candidate profiles ("his life history, um what we talk in the meeting") in Excel for mentors.
+* Travel booking: Relies on assistants and outside travel agencies despite lengthy lead times.
+
+### 5 — Magic wand
+—
+
+### 6 — Reveal reaction
+—
+
+### 7 — Close / next intro
+* Introduced the Vice President of COE / HR arriving around midnight (24:00 / 12:00 AM).
+* Clarified the VP does not speak English and offered to interpret: "Well, I can, like, translate... I can be there, so I can listen, too."
+* Mentioned team members are coordinating an upcoming campus visit to Minerva on October 30/31.
+
+### Pain points ranked (by how concrete the story + workaround is)
+1. Candidate profile synthesis and cross-system data assembly: Concrete workflow (exporting Salesforce data to Excel, feeding meeting transcripts and entry sheets into enterprise Claude to compile detailed candidate packets for engineers locked out of Salesforce).
+2. Internal mentor discovery and evaluation opacity: Concrete workflow hurdles (HRBP evaluation records and engineering rosters are siloed from Global TA; workaround relies entirely on informal Slack DMs, word-of-mouth HR vetting, and pre-negotiated lists).
+3. Corporate travel scheduling bureaucracy: Concrete chain of handoffs (employee -> manager -> assistant -> travel agency), but treated as standard background reality with no active personal workaround attempted.
+
+### Signal strength (one line + why)
+Strong signal on recruiting data silos and automated candidate dossier generation (demonstrated an elaborate, active workaround using Excel and Claude); weak signal on travel management (interviewers pushed the topic, while Shion voiced no active friction).
+
+### Follow-ups owed (anything promised, e.g. people to intro, the VP arriving at midnight)
+* Interview with the Japanese-speaking VP of HR / COE arriving at midnight (around 12:00 AM / 24:00).
+* Shion promised to join and translate/interpret the interview with the VP.
+
+---
+
 ## Cross-interview patterns
 * Note: Only one customer interview was conducted in this recording window (Koki).
 * **0-to-1 product creation inside large enterprise:** Recruit employees pitch ideas to product heads and recruit their own internal teams to build new vertical job boards.

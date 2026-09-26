@@ -1016,3 +1016,652 @@ Why is everyone so alcoholic? What? [laughter] Oh, right, right! [laughter]
 Testing, testing. Is it still transcribing? [sigh]
 
 </details>
+
+## Segment 2026-09-25_20-30-00.gemini.json
+**Summary:** The recording begins with casual conversation among colleagues or hackathon attendees discussing hardware, monitors, and the helpfulness of Japanese staff members. They check the live transcription tool and prepare to conduct an informational interview with a member of the Recruit Global Talent Acquisition team. Once seated on a couch, the interviewer asks detailed questions about the interviewee's role in new graduate hiring, their campus visits across North America, the structure and size of the recruiting team, and the workflow of organizing events and collaborating with engineers. The interviewee explains the stages of sourcing, selection, and attraction, and outlines the informal and formal steps involved in recruiting internal engineers to participate as mentors in international events.
+
+<details><summary>Verbatim</summary>
+
+**[00:00–00:07]** _conversational_  
+total, like, two 5090s and two M5 Maxes, like, a total pool of 200 VRAM.
+
+**[00:07–00:11]** _playful_  
+I won them. I won them. I'm not rich. [laughter]
+
+**[00:11–00:16]** _curious_  
+What the hell? Can you open this? [laughter] [laughter]
+
+**[00:16–00:26]** _excited_  
+Yeah. Grab it. Oh, this is an [snicker] Ooh, HDD. I'm going to steal this. SATA, lots of ex- external hard drives.
+
+**[00:26–00:34]** _amused_  
+[laughter] A hundred plus watts? Let's ask the organizers. [laughter]
+
+**[00:34–00:41]** _casual_  
+I mean, I don't really need a monitor though, so like. I don't really need a Do you need it? Not really. I was just like I just like thought it was cool. [groan]
+
+**[00:41–00:45]** _determined_  
+All right. Shion time.
+
+**[00:45–00:54]** _neutral_  
+[ambient: background chatter]
+
+**[00:54–00:57]** _surprised_  
+What? [laughter]
+
+**[00:57–01:05]** _neutral_  
+[ambient: background chatter]
+
+**[01:05–01:10]** _polite_  
+Hello. Oh, we were wondering if you're free now? Okay, cool.
+
+**[01:10–01:16]** _reassuring_  
+Please take your time. We're just going to be there. Okay.
+
+**[01:16–01:24]** _tired_  
+[sigh] [ambient: background chatter]
+
+**[01:24–01:30]** _focused_  
+Okay, sanity check. Am I still transcribing what did I say for the past few minutes?
+
+**[01:30–01:35]** _neutral_  
+[ambient: background chatter]
+
+**[01:35–01:43]** _sympathetic_  
+Did they try to toot her horn? [laughter] I feel bad.
+
+**[01:43–01:47]** _expressive_  
+Every time when I ask something from a Japanese person, bro, they are like extra extra Right?
+
+**[01:47–01:54]** _humorous_  
+Yo- Yo, the fact that you fucking put that chair [laughter] in front of us, I was like, I thought she was just like asking like where you are. I go, "Oh yeah, he's over there." So like we're Our team is complete. She fucking brings out the whole ass chair! [laughter]
+
+**[01:54–02:00]** _amused_  
+[laughter] What a grand entrance! I was like, "Dude, what the fuck did you just ask for?" [laughter] You could've just sat back in. [laughter]
+
+**[02:00–02:11]** _resigned_  
+All right. I'm good. You sure? Yeah, I'm going to go, too. Let's go. All right. [sigh] [groan]
+
+**[02:11–02:16]** _neutral_  
+[ambient: background chatter]
+
+**[02:16–02:22]** _casual_  
+Huh? I think it's fine. We don't need a Oh no, I don't need it. Did you ask for a HDMI? Yeah.
+
+**[02:22–02:30]** _inquisitive_  
+Sorry, quick question, are the rest of the Recruit team going home tonight? Um, yes, actually. But then, like they're We're going to be here until 24:
+
+**[02:30–02:37]** _interested_  
+Okay. a.m. And then, like the the two other, you know, the vice president of HR will come at, like, Okay. Oh! Do we need to appointment time for that?
+
+**[02:37–02:44]** _clarifying_  
+Uh, yeah, you can. Oh, actually. Later at night, earlier tomorrow? Yeah. How late? How late? Oh, like 28:. Like 4:00 a.m. basically? Okay.
+
+**[02:44–02:51]** _informative_  
+Yeah. Yeah, okay, we'll just like ask get an appointment then, because we're trying to ask all Recruit employees actually, so that we can see if we can solve an actual problem.
+
+**[02:51–03:04]** _informative_  
+[laughter] You know, we've talked to Koki so far. But, actually, they don't speak English A lot? Oh. Well, I can, like, translate.
+
+**[03:04–03:13]** _suggestive_  
+Okay. You speak Japanese, by any chance? Oh, maybe I can just like um But but, show them. I can be there, so I can listen, too. Oh, we don't want to bother you. Like, what I was thinking is maybe we can even like um show them just like show them the questions in Japanese and then they respond in Japanese, then we ask to record?
+
+**[03:13–03:19]** _friendly_  
+Yeah, like anyway, I will be here until, like, 24:. Oh, at least for the VP! Okay. [laughter]
+
+**[03:19–03:36]** _appreciative_  
+Does the VP speak English? No. No? Oh, then I guess for that, we'll need you, if that's fine. Okay, thank you so much. Um, but yeah, sorry, once you're done helping them with the HDMI thing, we'll just be there. Yeah, thanks. Okay, cool, so I guess
+
+**[03:36–03:41]** _tired_  
+[sigh] live transcribe time. [sigh]
+
+**[03:41–03:57]** _reflective_  
+So, we can maybe like interview her, and then we just like define a problem by what, like 1:00 a.m. I uh I mean And then you look that and then do you just work, you know? Mhm. In the morning, we should be It's 8:30 right now, though. 8:30 right now. Time flies so fast. Too slow. [laughter] [laughter]
+
+**[03:57–04:06]** _humorous_  
+[laughter] I was even thinking, "Oh, he doesn't come till 12:00, I'm just going to sleep at the hotel and then come." [laughter] I want to maximize my PR. [laughter] Right? [laughter] [laughter]
+
+**[04:06–04:10]** _amused_  
+[laughter] I literally like earned my points my hand. [laughter]
+
+**[04:10–04:24]** _neutral_  
+[ambient: background conversation in Japanese]
+
+**[04:24–04:33]** _casual_  
+What does it say? Does it say it on your screen? Um, I don't have the display Maybe I should bring the display one. [laughter] Cause I have it. Mhm. I'm free now.
+
+**[04:33–04:41]** _welcoming_  
+Oh, cool. Um do you want to sit here? Yeah. Let's just There's a There's a couch. Yeah, there Can be comfy. Oh, yeah, let's sit here. [laughter]
+
+**[04:41–04:46]** _neutral_  
+[ambient: background chatter]
+
+**[04:46–04:50]** _focused_  
+Let me just pull up the notes.
+
+**[04:50–04:56]** _satisfied_  
+Ah, perfect.
+
+**[04:56–05:07]** _relaxed_  
+Yeah, it's just going to be a very casual interview because like we had a we talk we talked already. But I guess for the sake of our note-taking, um
+
+**[05:07–05:13]** _thoughtful_  
+Of course. No, um I guess, um
+
+**[05:13–05:22]** _inquisitive_  
+Okay, I just wanted to ask like, in Recruit, what your role is? Role? Yeah, what is your role at Recruit? I see. So, my role is um recruiter, actually.
+
+**[05:22–05:32]** _informative_  
+Oh, okay! Yeah, so I'm in the new grad uh hiring team, especially uh global talent acquisition. Global talent acquisition. Yeah, for new grads. So, I visited a lot of universities,
+
+**[05:32–05:39]** _playful_  
+for example, in the US, Canada. You should visit Minerva. [laughter] I'm joking. [laughter] Well, feel free to use us. Oh! next week? Next month. Yeah, next month.
+
+**[05:39–05:46]** _excited_  
+Oh, cool. Wait, actually? We'll visit. Oh, I'll be there! [laughter] I'll be there, too. Yeah, I'll be there. [laughter] That's amazing. Are you guys freshmen?
+
+**[05:46–05:58]** _candid_  
+I [groan] I just graduated. I just graduated. We I just graduated, yeah. No, I was supposed to graduate, like, 3 years ago, but uh since I was, like, in the workforce, like, at startups, Because like the San Francisco is for freshman, right? In Yes, generally.
+
+**[05:58–06:07]** _impressed_  
+You're very You're familiar with that. Yes. You're very You did your research. [laughter] You know, we actually have uh one, you know, Minerva uh intern, and also like one girl like Hakkei. Ah, Sojeong! Hakkei and Sojeong.
+
+**[06:07–06:14]** _friendly_  
+Sojeong, yeah. We both We all know them. [laughter] Yeah, yeah. [laughter] It's a small school. Um okay anyway, in the recruiting global acquisition team, how many are you in that team?
+
+**[06:14–06:21]** _curious_  
+Uh how many? How big is the team? Three or four. Oh, three or four? It's basically so everybody here, then. Okay. [laughter]
+
+**[06:21–06:27]** _hesitant_  
+Um Um who But new grad team itself has 30
+
+**[06:27–06:33]** _clarifying_  
+30, it's Okay. But for the US or for the global ones, it's just you three? Yeah. Um
+
+**[06:33–06:47]** _inquisitive_  
+I was wondering like, if you can imagine being back in the desk, in your office, like who do you work to on a day-to-day basis, like maybe the last time you were in your desk? [sigh]
+
+**[06:47–06:53]** _neutral_  
+Does it change? Or It change a little.
+
+**[06:53–07:05]** _structured_  
+Because they're they're In our, you know, job process, they are they is a some, you know, fail phase, Mhm. sourcing, Mhm. selection,
+
+**[07:05–07:14]** _explaining_  
+and uh you know, attraction. So, that uh sourcing part, like we do like the campus event or like the Boston Career Forum, which is Ah, yes!
+
+**[07:14–07:23]** _amused_  
+My classmates flew from Taiwan to Boston for that. I was like, "Tokyo's right there, [laughter] why did you fly?" [laughter] Yeah, a kind of event for sourcing. And also we do internship. Mhm.
+
+**[07:23–07:35]** _informative_  
+So, those event, we basically do ourselves. But then, sometimes, like for example, Hiro, or like uh, you know, you saw some, you know, engineer PM, right? Yes. Yes. So, we collaborate with uh them in order to
+
+**[07:35–07:44]** _thoughtful_  
+attract or like uh, you know, have some sometime interns will work at that uh [inaudible] I see.
+
+**[07:44–07:54]** _inquisitive_  
+But Yeah. Would Would you say you're in charge of making this event happen, or was it a different person? And when you were working with this, you said you collaborated with the engineers.
+
+**[07:54–08:00]** _curious_  
+I'm really curious, like how did you collaborate with them? So basically, this event uh like was planned by
+
+**[08:00–08:05]** _neutral_  
+Yes. And then, um
+
+**[08:05–08:14]** _informative_  
+as a mentor, uh we need we needed uh the business
+
+**[08:14–08:24]** _clarifying_  
+And so because of that, did they also fly in? They also flew in, right, because of that. Okay. Yes. So,
+
+**[08:24–08:34]** _engaged_  
+I guess I want to zoom in on that now because I want to actually try to imagine like I'm Shion, and so like when you were collaborating did them with them like
+
+**[08:34–08:44]** _inquisitive_  
+what did what how did it go? Like if you could give us the step-by-step, because I'm also interested, as a new grad, how HR works, [laughter] you know? So for the hackathon and for um this illusion,
+
+**[08:44–08:49]** _curious_  
+I was really interested how you reached out to them, how does Recruit work. For example,
+
+**[08:49–08:58]** _thoughtful_  
+like regard regarding Hiro, Yes. we we wanted uh we need someone to be a mentor. Okay. And then we, like, thought the How to say? Uh,
+
+**[08:58–09:07]** _matter-of-fact_  
+who should be a mentor, and we have uh, you know, candidate. And like choose one. Mhm. We just, you know, send the DM to Hiro.
+
+**[09:07–09:14]** _surprised_  
+Oh, it's very informal. "We are planning the um this kind of event." And, like, I made the deck for No- Not the deck, but actually the document.
+
+**[09:14–09:24]** _informative_  
+Mhm, mhm. Summarize the, you know, what are we of this event, and what I want to ask for you is, Mhm. and yeah. And then, like, he "Yeah, I'm down to it." And then,
+
+**[09:24–09:34]** _explanatory_  
+after that, uh we need to, you know, um arrange his flight or like the accommodation or something. So, yeah, we do it. And uh,
+
+**[09:34–09:41]** _neutral_  
+so,
+
+**[09:41–09:55]** _inquisitive_  
+One thing I'm curious is like Hiro being an engineer, he must have some tasks he's already working on. Like how does that work? Cuz I imagine there are so many invisible moving parts when you say, "Oh yes, I'm down, Yeah. let me talk to my manager." Yeah.
+
+**[09:55–10:00]** _thoughtful_  
+"If I'm allowed to." The official way for our company, I don't know that
+
+</details>
+
+
+## Segment 2026-09-25_20-40-00.gemini.json
+**Summary:** In this conversation, an HR recruiter shares details about the recruitment and mentorship coordination processes within her company, focusing on the bureaucratic and operational hurdles involved in securing mentors and accessing candidate data. She explains how requesting employees like Hiro for mentorship or campus recruiting requires navigating managerial approvals, varying team boundaries (such as between global talent acquisition and engineering recruiters), and strict data security protocols between distinct HR systems. The discussion also touches upon the volume of collaborators handled annually, the distinction between formal engagements and informal one-on-one sessions, and recent efforts to utilize corporate AI tools like Claude to combine and organize fragmented selection and sourcing data.
+
+<details><summary>Verbatim</summary>
+
+**[00:00–00:09]** _thoughtful_  
+[ambient: background chatter] other, you know, situation, but then like our company, uh Hiro is kind of a little bit how to say, yeah,
+
+**[00:09–00:19]** _amused_  
+supporters, we need to uh ask that his manager first [snort] [laughter] because um he has it yeah, as I said, he has uh
+
+**[00:19–00:26]** _collaborative_  
+uh official missions. And kind of you know ask is usually Right. Yes. off like missions, [laughter] their mission, so Mhm.
+
+**[00:26–00:35]** _explanatory_  
+um yeah, outside of their official So, uh I would I have to ask like if he has a, you know, capacity to do the off-site job, or
+
+**[00:35–00:44]** _inquisitive_  
+like um yeah. Mhm. Did you do this before Oh, sorry for cutting. [laughter] Did you do this before or after you sent him the document?
+
+**[00:44–00:54]** _understanding_  
+Before. Oh, okay. Yeah. And then, like if the manager like accepted, I uh directly ask that person. Okay. I see. I see.
+
+**[00:54–01:05]** _curious_  
+And in the process of asking Hiro, for example, was there ever a time where it felt slow or annoying or frustrating because, "Oh,
+
+**[01:05–01:13]** _conversational_  
+I just want him to be the mentor. Why is it taking so long?" or I don't know, like did you have to double check with the manager? Like I think that when it comes to Hiro, like actually we collaborate a lot. Ah, right.
+
+**[01:13–01:24]** _reflective_  
+So, we are very close. So um But then, when it comes to the first time, how to say,
+
+**[01:24–01:34]** _analytical_  
+who could be a mentor? Yeah. But the first time, like Mhm. We don't have information about like how his performance, or like
+
+**[01:34–01:45]** _serious_  
+yeah, or like how the other managers eval- evaluate him. Like if if we like really should ask him as a mentor, Mhm. that kind of thing. Like we just have to
+
+**[01:45–01:54]** _amused_  
+uh like ask other HR, like "Do you know this person? Do you have [laughter] Ah, right. like performance information?" Like
+
+**[01:54–02:04]** _explaining_  
+Um yeah. And who [inaudible] because like our company,
+
+**[02:04–02:14]** _informative_  
+like new grad like recruiting team and uh HRBP, you know that, the insider HR, is separated. And the data is separated. Mhm. Yep. Oh.
+
+**[02:14–02:24]** _inquisitive_  
+Is it Is the data in separate places for security, or is it just separated because you're all working different in different ways?
+
+**[02:24–02:35]** _formal_  
+I think that the there is security problem as well. Mhm. So, we have a very official data like how to say, council, like meeting.
+
+**[02:35–02:44]** _hesitant_  
+Mhm. Uh, we have to how to say, um suggest like
+
+**[02:44–02:54]** _understanding_  
+bring the proposal. We would like to use data this kind of way, and then Mhm. [ambient: sniffing] Ah, I see. authorization is yeah, like that. Okay, okay.
+
+**[02:54–03:04]** _engaged_  
+I'm actually interested, right now we're only talking about getting Hiro as a mentor, or like getting first timer people as a mentor, but how big is this data problem
+
+**[03:04–03:13]** _probing_  
+that you have to ask for it? Like, do you encounter it in your work? Like, how many years have you been working with Recruit? Uh, three. Three years? Like, in your three years, how often did you have to do this?
+
+**[03:13–03:24]** _thoughtful_  
+Mm, It depends on the person, I think. Mhm. And like I
+
+**[03:24–03:36]** _factual_  
+uh there are 10 to 15 employees who I have to collaborate with [ambient: sniffing] in each year. Mhm.
+
+**[03:36–03:47]** _correcting_  
+It can be internship mentor. Internship mentor. Um Yeah, 15 to 20, I guess. Yeah. But then, yeah, intern mentor or like
+
+**[03:47–03:57]** _explaining_  
+it's going to be more like casual and like quick one, but then like sometime in order to attract that candidate, we set the, how to say, the 1-on-1 session Yup.
+
+**[03:57–04:06]** _conversational_  
+1-on-1, mhm. with employees and student. People like Hiro still, right? Okay. Yeah, yeah, mhm. So, in order to ask that just a one-hour in a 1-on-1 session, we like we have to
+
+**[04:06–04:17]** _relieved_  
+Oh, so much research, yeah. [sigh] something, right? Mhm. So, in that case, we don't have to how to say, ask the manager and like do something, but then yeah. So,
+
+**[04:17–04:26]** _clarifying_  
+Oh, so for the 1-on-1 for 1 hour, it's like depending on the employee. You don't need to ask the manager. Mhm. Okay. Okay.
+
+**[04:26–04:36]** _inquisitive_  
+How do you Sorry for cutting, but how do you draw the line like when it needs like a manager's approval or it can be like done through this? Mhm.
+
+**[04:36–04:47]** _definitive_  
+We have a [ambient: sniffing] clear line, I guess. For For example, the the campus recruiting is, how to say, a huge thing because like we need one week for travel abroad or something. Mhm. Ah, right, right.
+
+**[04:47–04:58]** _amused_  
+That kind of travel abroad [laughter] I think we need to yeah, ask him like manager first, and then, [laughter] ask him directly after that. [laughter] But when it comes to just 1-on-1,
+
+**[04:58–05:07]** _matter-of-fact_  
+um 1-hour 1-hour, yeah, it's can be happen
+
+**[05:07–05:18]** _explanatory_  
+by personal connection. Mhm, mhm. So, we actually have an official list, or like this person is like for one like
+
+**[05:18–05:27]** _informative_  
+this year, this person is who we can ask for 1-on-1 like 10 times or something. Mm.
+
+**[05:27–05:37]** _intrigued_  
+That kind of Did you make this yourself, or was this something that the other team who are doing that Interesting. Yeah.
+
+**[05:37–05:46]** _amused_  
+What this What is this team called? Is it like Cuz you have the global talent acquisition team, Yeah. [laughter] cuz this job is very niche. It's very focused. [laughter] Yeah, yeah.
+
+**[05:46–05:57]** _explanatory_  
+It change a lot, but usually um attracting team. Attracting team. Yeah.
+
+**[05:57–06:07]** _inquisitive_  
+So whenever like you're going through those like, you know, let's say engineers in the directory, do they just like, you know, go to the person that they have asked before, or every single time they have to like go through the entire directory, like the directories, to see who would be the right person to find?
+
+**[06:07–06:17]** _reflective_  
+Um, it is difficult to search from the big data, so, basically, we like depending based on our human knowledge. Yes. Like
+
+**[06:17–06:27]** _humorous_  
+Yeah, there are how to famous employee. I see. Right. Right.
+
+**[06:27–06:37]** _pensive_  
+I see. So, hmm. There are so many employees, and I was wondering like uh,
+
+**[06:37–06:48]** _curious_  
+you said there's a team for that, but I remember before you were also saying, "Oh, we just ask other global HR team like, 'Who do you think is good?'" Like, why do you like I don't know if skipping is the right word, like why do you not ask that team instead, Mhm. Yeah. or like why do you ask the recruit they're your fellow recruiter?
+
+**[06:48–06:58]** _informative_  
+Uh, because our team is very separated. Like, they're we are the global talent acquisition team, there is an engineering engineer talent acquisition team, Mhm.
+
+**[06:58–07:07]** _explaining_  
+data scientist talent acquisition team. Ah, I see. So, like and then, how to say, like it is like this kind of thing. It yeah, mixed. Mm. So, in global talent
+
+**[07:07–07:18]** _matter-of-fact_  
+acquisition team, we don't like we also hire engineers Mhm. Mhm. globally, right? So, we need to collaborate with engineer employees. But then, we are not that familiar with engineer employees because we usually focus on not engineers.
+
+**[07:18–07:27]** _understanding_  
+And that engineer team like uh collaborate with engineer employees Mm. like very, very often, so they are familiar with um them. Mm. I see.
+
+**[07:27–07:37]** _casual_  
+So, there's this Or like whenever you're like let's say, going through like a you're like recruiting in the States, you're like not just like engineering, just get like, oh, every like, you know, good-looking people from the the US and then they're like throwing to like a different departments. Oh, this site this guy seems like an engineer, so like then you're like circling back to the engineering recruiting team and say,
+
+**[07:37–07:47]** _seeking validation_  
+"Can you like, you know, verify like this guy's engineering skills?" And if they say good, and then they it goes back to you and like moving forward with that candidate, right? Mhm. Mhm, yeah.
+
+**[07:47–07:56]** _overwhelmed_  
+[sigh] I didn't know there are so many steps for something so simple. You know, at this point, if we just make a That's what this ballpark Yeah. [laughter]
+
+**[07:56–08:06]** _jovial_  
+If we If we just make a solution for Shion alone, [laughter] and even if we don't win, I I'd be okay because Let Shion be free, man. [laughter] yeah, even I get headaches for this. [laughter] But have you guys tried um, because there's a lot of AI tools now, right? Have you tried using AI to fix that? How did you?
+
+**[08:06–08:15]** _interested_  
+Very recently, we started using Claude, actually. Like we are allowed to use corporate like version of Claude, actually. Mhm. Yeah. This, yeah?
+
+**[08:15–08:24]** _candid_  
+We [sigh] I use very often, very, very often. Mhm.
+
+**[08:24–08:34]** _reflective_  
+For example, [ambient: background chatter] It's the data combining. Like for example, we have a lot of, you know, selection. We have like the the Mhm.
+
+**[08:34–08:44]** _curious_  
+Yeah, for example, for internship, we have the selection data, and sourcing data. Like So, we have to combine like data. Selection and sourcing data? Yeah, yeah. Interesting, I've I'm not familiar with that. What is that for?
+
+**[08:44–08:55]** _explanatory_  
+I mean that like we do so, for example, if I do the recruiting event at Minerva, Yes. like these are like 30 people are joined the the recruiting event. Mhm. Then, like
+
+**[08:55–09:05]** _thoughtful_  
+20 people uh joined our interview for internship as well, then that data is Mhm. [sigh] um sometimes
+
+**[09:05–09:16]** _informative_  
+separated. I see. Because we have a Salesforce system uh for like organizing
+
+</details>
+
+
+## Segment 2026-09-25_20-50-00.gemini.json
+**Summary:** In this recording, two interviewers speak with an internal recruitment team member at Recruit about internal tooling, workflows, and operational bottlenecks. The discussion begins with the recruiter explaining why she relies on Excel alongside Salesforce, noting that Recruit's custom Salesforce instance is overly complex, difficult to modify quickly, and restricted due to security controls when sharing student candidate data with engineering mentors. She describes how automated meeting transcripts and evaluation notes are summarized into detailed candidate profiles. The conversation then transitions to business travel and relocation logistics, where interviewer inquiries reveal that booking flights, accommodations, and scheduling trips—both for internal staff and hackathon attendees—remain an entirely manual, back-and-forth process managed through human administrative assistants, often requiring extensive lead times of up to a month.
+
+<details><summary>Verbatim</summary>
+
+**[00:00–00:15]** _conversational_  
+[ambient: background chatter] candidate's data, but then because our team is so small, and very, how to say, moving very fast and irregular thing, we sometimes like um use Excel to...
+
+**[00:15–00:25]** _engaged_  
+Mmm, right. I see. I see. [ambient: background chatter] So sometimes I have to combine like this person joined recruiting event, and like selection result is this, and like kind of like that.
+
+**[00:25–00:48]** _curious_  
+How This cla- And this is this is separate, just to be very clear. This is very separate from the [laughter] recruiting hero, so that you can mentor, right? This is a different problem that you used Claude with. I see. So, why did you have to use Claude, cuz I'm not very familiar with Salesforce, like the uh program itself, but why did you have to use Excel? You said because it's separate, right? But in what way?
+
+**[00:48–01:05]** _thoughtful_  
+Mmm, there are two things. First, like [ambient: background chatter] um creating like sales, how to say, page is very heavy. It costs a lot, I mean, the
+
+**[01:05–01:28]** _explanatory_  
+Ah. Salesforce is um customized for every, you know, company, [ambient: background chatter] Mhm. but ours like Recruit's version of Salesforce is very customized and very complicated. So we cannot like arrange by ourselves, but like sales Salesforce uh engineer, like Mhm.
+
+**[01:28–01:45]** _informative_  
+it takes long time to, how to say, Is the Salesforce engineer someone from Salesforce, or someone in Recruit? Yeah, from Salesforce. Oh, okay. [ambient: background chatter] Just to clear, what the business [inaudible]? Right, like a forward-deployed. We have operation team inside Recruit, Recruit uh team, and then that operation team and Salesforce team like have a, you know, weekly meeting or something.
+
+**[01:45–02:08]** _reflective_  
+I see. So, although what I'd like to say is that if I want to arrange the the page of Salesforce, it takes time. So we just, you know, went to Excel to
+
+**[02:08–02:26]** _explaining_  
+And you also said it's expensive, right? Like, it costs? Costs uh Yeah, I think so, but like I we already use it, so the cost is cost is problem, but then uh the the reason why we use Excel is very heavy to rearrange, and and also, there's a security problem as well. For example, sometimes
+
+**[02:26–02:48]** _matter-of-fact_  
+we share the, you know, candidate's information with that engineers or like the men- mentors, right? But then Salesforce, like, it's very, how do you say, secured system, so um it takes time to uh share the access to uh, you know, I see. Mhm. and only HR [cough] people have access, then
+
+**[02:48–03:05]** _inquisitive_  
+Ironically, using Salesforce takes much longer. Mmm, yeah. And what is the Why do you even need to match the internship from source- selec- sourcing to selection in the first place? Why do I have to combine the data?
+
+**[03:05–03:30]** _probing_  
+Yeah. Like what- I was just interested in like what led you to be so frustrated at Salesforce that you had to make a Claude code for it? [ambient: laughter] Mhm, mhm, mhm. Like, what's a goal for this?
+
+**[03:30–03:45]** _descriptive_  
+Okay. Mhm. Right? We have, like, 40 students. And then, uh, we share that person's information, [ambient: background chatter] like, to the mentors. Mmm. Mhm. And then, like, like, most of the information is in the Salesforce. Some of them are not in Salesforce, so we have to, like,
+
+**[03:45–04:15]** _informative_  
+[ambient: background chatter] by the Excel we, you know, this is overview of that student, and who we met, like Mmm. why he's interested in our company, like what is his strengths,
+
+**[04:15–04:35]** _curious_  
+I see. That was supposed to be my next question, cuz like how do you even get that data for, for example, there are 40 students. That's so many meetings. Do you write the data yourself, or is that where you use Claude? Yeah. Uh originally, [ambient: background chatter] example, recording, I can't remember, sorry.
+
+**[04:35–04:55]** _amused_  
+Yeah, meeting recording. recording [laughter] Mhm. Ah, of course. Of course. Yeah, so I don't actually take notes. Mhm. Nice. But then uh like evaluation
+
+**[04:55–05:15]** _clarifying_  
+And then For our interview for this hackathon, we're also using meeting notes and Yeah, [laughter] yeah. Yeah. [laughter] I remember that. That kind of thing, yeah. And then you use this data to like make a summary about Stephen, for example, and then that's the Excel that the engin- engineer would get? Is it like a profile like like a LinkedIn basically, or like your version with your notes? Like
+
+**[05:15–05:40]** _informative_  
+Not like very Compared to LinkedIn, they're very detailed. Yeah, his life history, um what we talk in the meeting. Mhm. That has a lot of information, right? Not just uh, you know,
+
+**[05:40–06:10]** _friendly_  
+And the life history you get it with uh during the interview, or do you use another tool to like look up a person? Uh basically the information is from meeting, like some interview or like one-on- I see. Yeah, and uh entry sheets, as well. I see. [laughter] Thank you so much for answering so much of our questions. I'm not sure if you have any more questions? I actually have a couple more questions like, you know, if you don't mind like spending 5 more minutes with me. Yeah, of course, of course. And, you know, like also like not just like you know hiring people, I was kind of interested in like you know, let's say, cuz when I was like talking like different recruiting employees here, they're like, "Oh, I used to work in Indeed here in the US and then they're like relocated back to like Japan." Uh-huh. I'm assuming the relocation happens like so frequently and
+
+**[06:10–06:45]** _detailed_  
+probably you needed to organize like like [unclear: Sanjen?], like when she joined the you had to arrange travel for her, also for this hackathon, like I know like so many things go on, right? Yeah. And we somehow noticed that even us, like when we were applying for that like hotel and everything, everything has been completely manual to us, Mhm. and can you just like walk us through through how is that relocation you know processes or handlings going on at the
+
+**[06:45–07:12]** _curious_  
+Organizing event, you mean? In general, the hackathon or a relocations for the your employees, too. For any kind of business travels, like when when you're like traveling here to the States, you also need to probably like do all the flights and hotels and something, so Uh-huh. just how does it work? Like, how is it so manual in here? Um
+
+**[07:12–07:35]** _hesitant_  
+Business trip, like hosting, guesting, everything. So, we decide like which date to and we ask
+
+**[07:35–07:55]** _matter-of-fact_  
+assistant as like a person, or an agent? Like an agency? Uh, a person. A person. Mhm. Yeah, assistant, and [ambient: background chatter] actually, Mhm. not only this trip, like
+
+**[07:55–08:20]** _analytical_  
+Austin? The entire travel to the US. Right, so I see. Ah. with the quote, um I see. So that's a very uh old way to do it, I think, right? Let's And let's let's take a thing. Let's say your meeting was like scheduled on next Wednesday, Uh-huh. and you bought every flights already, Uh-huh. and suddenly like two days before, the meeting has been postponed to next next week, Uh-huh. which means that you have to go through this entire process again to cancel your flight and reschedule, right? Oh, yeah. Yeah.
+
+**[08:20–08:52]** _inquiring_  
+How How often does it happen to to you, like scheduling a business trip, or Um for your department? Yeah. But how many employees of your company travels, like
+
+**[08:52–09:30]** _thoughtful_  
+There are a few groups, I think. Not a very big [ambient: background chatter] Okay. I I heard that they travel very of- very, very often, like half of year. Mmm. I don't know, medical team, because they have So, very often. Yeah.
+
+**[09:30–10:00]** _inquiring_  
+So one of the like questions I also wanted to know is like, for us to get this, you know, hackathon, you know, like you know invited or something, I think it took us like about like more than a month to get the travel scheduled. As soon as we like you know got the announcement, Yeah. we started the process, and the flights were coming out like, you know, three weeks after. Uh-huh. Does it usually take that long to like you know schedule a business trip? Like so let's say if you have like a meeting in a month, Mhm. that means like you have to like plan like a month ahead for your business travel? It depends, because the
+
+</details>
+
+
+## Segment 2026-09-25_21-00-00.gemini.json
+**Summary:** In this recording, two participants in a hackathon conduct an informal customer discovery interview with Shion regarding corporate travel management and booking procedures within her organization. They discuss the logistical hassles of using traditional travel agencies versus booking directly, delays, cancellations, and corporate point or mile accumulation. Shion explains the multi-step approval workflow and mentions that their Vice President will arrive at midnight to speak with them. After concluding the interview and expressing their appreciation, the two interviewers reflect on customer discovery findings, note the empty room, and discuss their upcoming project plans.
+
+<details><summary>Verbatim</summary>
+
+**[00:00–00:09]** _conversational_  
+Like this time, we had 30 students and also like uh [ambient: background chatter]
+
+**[00:09–00:23]** _curious_  
+How about in case, let's say, you're in you're in Tokyo, and a day after, you have an urgent business business meeting in in Sapporo. Mhm. How how are you gonna handle that business travel plan then?
+
+**[00:23–00:36]** _engaged_  
+You're You're Let's say you're in Tokyo In Tokyo, uh-huh. like today, uh-huh and a day after, you have an urgent business meeting in Sapporo. How are you gonna schedule that business travel?
+
+**[00:36–00:44]** _thoughtful_  
+Uh [sigh]
+
+**[00:44–00:54]** _reflective_  
+There's a two-way. Like using travel agency or like take
+
+**[00:54–01:05]** _attentive_  
+Mhm. I see. Then it's reimbursed. Yeah, we actually need approval from the
+
+**[01:05–01:27]** _analytical_  
+One of the ways that I kind of think this problem is on is just travel, so you know, like happened like by different people with different preferences, and every time they have to like get back to travel agencies for like, but it's, I don't know why, like it would have to take like weeks to do it, because um literally, as you mentioned, you can just do it by yourself. Yeah. But
+
+**[01:27–01:45]** _inquiring_  
+is there a reason why the company is
+
+**[01:45–01:54]** _amused_  
+[laughter] Not Slack. Not Slack. [laughter]
+
+**[01:54–02:03]** _thoughtful_  
+Maybe the travel agency side
+
+**[02:03–02:23]** _explaining_  
+and I have to go abroad. But then, my boss Mhm. ask assistant Mhm. to arrange it, like, then that assistant [cough] [throat-clearing] ask travel agency Mhm. to do that arrangement.
+
+**[02:23–02:34]** _agreeing_  
+Yeah. Hurry. And then, confirmation, like,
+
+**[02:34–02:44]** _resigned_  
+[sigh] Then we [laughter]
+
+**[02:44–03:13]** _expressive_  
+I'm I'm just like thinking, cuz like for me, like I have taken more than 400 flights in my life, cuz I travel a lot too. Woah. But in a lot of cases, you know, they're like unexpected delays, cancellations happen, especially when I'm trying to go on like a business trip. And the thing is, I thought like when I was working for my own companies, uh usually like we just like use our corporate cards. You know, you just like just do it at the airport, so it was fine for us. But if you have to like, you know, go through all the like travel agency like this, Mhm. I am not quite sure what to do once I'm at the airport, but my flight is cancelled, and my meeting and my Ah, right.
+
+**[03:13–03:25]** _informative_  
+I Yeah, because travel agencies support our flight, uh if my uh
+
+**[03:25–03:32]** _normal_  
+Yeah, like
+
+**[03:32–03:37]** _polite_  
+Mhm. I see. Good. Okay. Well, nothing on my side. Okay. Thank you.
+
+**[03:37–03:44]** _cheerful_  
+Do you have any questions for us? [laughter] Why are you interested in, yeah, the travel?
+
+**[03:44–04:15]** _enthusiastic_  
+Cuz I don't know, like for for us, like Like, we're like still ideating like through like a different, you know, stuff or something, but Uh-huh. Uh-huh. travel's like a really big thing for me. Like, I've been to like more than 40 countries and so far, and still travelling. And as And the thing is like, I don't know, like, you know like, dude, it just got tedious just like to go and look for the Skyscanner every single time [laughter] for flights and something, so. And then And then that I was I kind of thinking maybe the the big corps like Recruit could have like a brilliant way to solve this problem, but guess I guess not, you know. I was just [laughter] Hmm. Very manual.
+
+**[04:15–04:46]** _animated_  
+Yeah. I actually went to Fukuoka like two weeks ago Really? to like do some research about how do Japanese people work or something, cuz cuz like I as soon as I got into this hackathon, I was like, "You know what? I just want to know like how how do Japanese people work." I went to Fukuoka and to and to Nagoya. Like meeting with what was it, the Station Ai, if you know what it is. Mhm. It's the Soft- SoftBank company. Like talking to people, they're like moving like super fast, but when it comes to business travel, they're like, "We don't know what to do. We just like," Interesting. they just like never thought of that. And for some reason, the travel agencies, they seem cheaper, but they overcharge the price, just because they have to scale everything. Yeah.
+
+**[04:46–05:07]** _humorous_  
+Well, at least for me, I just have miles, and so I I just I just want a reliable Google Flights with miles. I'm not the same with him. [laughter] But I mean, also like, you know, it's kind of funny that when the employees, you know, have like to travel, they can also like, technically, earn miles and the points on their own account too. Yes, yes. But they somehow miss it out, too. And I feel like
+
+**[05:07–05:16]** _amused_  
+Some companies Like a lot of employees miss it out. Really? Mhm. I don't know why. For some reason. [laughter] I don't know.
+
+**[05:16–05:32]** _explanatory_  
+And the thing is, like the corporate points, there are also the corporate systems that allows, you know, the corporates to earn the points at the same time together with the employees, Uh-huh. but a lot of companies miss it out, too, just because it was a through agency.
+
+**[05:32–05:49]** _inquisitive_  
+Right. Well, I guess uh That's very Sorry. I'm gonna quickly ask before um [laughter] you get tired. But uh is it like um the VP? What's What's the department, you said, that's coming at 12:00 a.m.? Sorry, did I hear that right? Yeah. Is he also part of the recruitment team? Acquisition team? Yeah.
+
+**[05:49–06:05]** _patient_  
+Well, so he's the VP of mmm you don't have to remember because because it's very, how to say, it changes a lot. Ah, okay. But, our organization's name is COE.
+
+**[06:05–06:17]** _casual_  
+[laughter] No, that's cool. COE. But now, like COE like includes new grad hiring team, uh mid-career recruiting,
+
+**[06:17–06:24]** _normal_  
+Mhm. so there are a few
+
+**[06:24–06:33]** _amused_  
+I see. Is he really coming here at 12:00 a.m.? Yeah. [laughter] That's insane. [laughter] The VP! The VP! [laughter]
+
+**[06:33–06:47]** _joking_  
+I mean, all for information, we know like, you know, how how does it work. It's supposed to be the the new grad employee's job, you know? [laughter] Yeah. [laughter] That's true.
+
+**[06:47–06:58]** _appreciative_  
+Well, thank you so much for your time. And yeah, I guess we're going to bother you again with the VP. We'll try to keep it shorter this time. [laughter] Yeah, thank you so much for your hard work.
+
+**[06:58–07:07]** _curious_  
+Yeah, I guess Did they go back to bed, or what? Not sure. Are they coming back? Uh, yeah. Stuff is here, well. Yeah.
+
+**[07:07–07:18]** _upbeat_  
+[laughter] Probably for dinner or something. Yeah, yeah. Well, in that case, yeah. Well, thank you. We'll use our notes, and then make something, cuz personally, at least for me, I'm interested to make in making something Shion can use when she goes to Minerva.
+
+**[07:18–07:29]** _friendly_  
+[laughter] You know? So, that's like a real product use. [laughter] I don't know, but Did you reach out to the, what was it, the career team in Minerva to schedule everything and everything? Yes, actually. CTD? Okay. Like me, but other you know, team member uh are organizing it.
+
+**[07:29–07:38]** _conversational_  
+But still in the global acquisition, okay. Okay, you might see me there too, cuz like for some reason, that team has asked for me to be like, you know, what is it, giving the presentation for the freshmen or something. Oh, really? [laughter]
+
+**[07:38–07:48]** _joking_  
+I don't know why, but like, yeah, I'm like that kind of senior. [laughter] They should pay you more. [laughter] I'm always paid for that, man. [laughter] Oh, no. When is this again? October 31st or
+
+**[07:48–07:58]** _cheerful_  
+Okay. Happy Halloween! [laughter] Yeah, exactly. 20, yeah, 30 or Stay, so you're staying in the US like till then, or are you gonna be in Japan and come back?
+
+**[07:58–08:10]** _informative_  
+No, no, I will go back uh like right after the hackathon, and then I will come back. Uh, I'm actually starting travelling from New York, Pittsburgh, and
+
+**[08:10–08:26]** _expressive_  
+I see. That's pretty cool. You must have a lot of miles. [laughter] Yeah. That's the biggest, you know, Yeah. The best part. Honestly, like that's one of the reasons why that I wanted to become something else than software engineer, cuz I've been a software engineer for like certain like years. I even did my military service in Korea was a software engineer, too. Oh! But the thing is, if you're a software engineer, you don't get to travel. [laughter] You just sit at your desk, and you just code it like 24/7.
+
+**[08:26–08:34]** _humorous_  
+I see. I should be in HR, too. [laughter] Openings in HR? [laughter]
+
+**[08:34–08:44]** _joking_  
+No, we can replace the Salesforce engineer, [laughter] you know? [laughter] If you need a Salesforce engineer, get us. [laughter] Oh, my god.
+
+**[08:44–08:52]** _friendly_  
+Like 2:00 a.m. we're gonna get your call. [laughter] Definitely living in Japan at some point in my life, but [laughter] Oh, I'm actually going to Japan this January.
+
+**[08:52–08:57]** _impressed_  
+January? Yeah, with my girlfriend, so. Oh, really? In Japan? Yeah. Wow. So That's why you speak Japanese.
+
+**[08:57–09:07]** _humorous_  
+I don't speak, just a little bit. I I speak a little bit, too, but uh. Oh, really? Yeah. Like it's not professional level. Like, you know, like just to just enough to survive in Tokyo. Yeah, yeah. The only phrase I know is, "Toire ni itte mo ii desu ka?" [laughter] That's like all I know.
+
+**[09:07–09:16]** _cheerful_  
+How about, "[unclear: Doko desu ka?] Oishii desu ka?" [laughter] Yeah, thank you so much, again. Thank you, Shion.
+
+**[09:16–09:27]** _confused_  
+Where did everyone go? Did we miss out on something? Is there free dinner? No. Is there a like like a special event for the people or [laughter] Are we missing out on something?
+
+**[09:27–09:37]** _optimistic_  
+Well, I guess 20K is ours then. [laughter] Let's catch 45-minute break.
+
+**[09:37–09:47]** _casual_  
+Yeah. For real, I think I'm gonna Oh, some of them are here, but like They're locked in, man. Yeah. But customer discovery is always more [unclear: tough?], man.
+
+**[09:47–09:56]** _relaxed_  
+Yeah, no, that has been fun. Um I guess Just give me some feature, too. Yeah. [sigh] Okay. But yeah, I think I'm just gonna uh transcribe this and then um Mhm. share the info with you, have my
+
+**[09:56–10:01]** _normal_  
+The crazy part was it, so it's only the record is like an
+
+</details>
