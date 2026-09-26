@@ -117,3 +117,13 @@ Two things to clear with him or Shion before Sunday 11:00, because the repo is p
 | Decision memo | Generated live from the evidence store |
 | 800-tag taxonomy | Illustrative subset of ~30; the real taxonomy is the customer's |
 | Any score or ranking presented as a verdict | None, by design |
+
+## 8. Added ~02:15 Sat: Claude session logs as an evidence source
+
+Carl's idea, thinking out loud: employees' corporate Claude accounts, and the Claude Code sessions stored locally on their laptops, are a signal nobody in the space uses.
+
+**Use it as evidence of will and judgment, not effort.** What a session shows: which problems the person chose to pick up, how they decomposed them, what they asked for, where they got stuck, what they rejected. That is closer to "revealed will" than any Slack thread, and it is already on the employee's own machine, which makes it the cleanest fit for the two-sided mirror: the employee opts a session in, sees the same summary the evaluator sees, and can redact or annotate before it is shared.
+
+**Do not pitch it as productivity or "how hard they work."** Two reasons, both from this week: the moment it measures effort, people type "complete my job" and paste everything (Carl's own objection, and the gaming problem from the Philippines example at 0:46:51); and covert capture is the exact thing the VP said blocks rollout to 3,000 managers. Session count, token volume and hours are the wrong metrics and would sink the pitch with the Indeed and Glassdoor judges.
+
+**Demo cost.** One extra evidence source in the fixtures: two or three fictional session summaries per candidate (problem, approach, outcome, one quoted prompt), each with a source id, feeding the same extractor. Half a day at most, after the core spine runs. Worth a single line on the architecture slide ("sources: public channels, shared docs, WCM sheets, opted-in AI session summaries") and a strong Q&A answer to "what data no one else has."
